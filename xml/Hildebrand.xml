@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <descrip>Hildebrand, Who was frightened by a Passing Motor, and was brought to Reason. </descrip>
+    <lg>
+        <l>“Oh, Murder! What was that, Papa!”</l>
+        <l> “My child, It was a Motor-Car,</l>
+        <l>A Most Ingenious Toy!</l>
+        <picture url="../docs/illus/CTC-40.jpg">
+            <interp resp="sqm">a car speeding down the road</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l>Designed to Captivate and Charm </l>
+        <l> Much rather than to rouse Alarm</l>
+        <l> In any English Boy.</l>
+        <picture url="../docs/illus/CTC-41.jpg">
+            <interp resp="sqm">a man with his hand on a childs head</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l>“What would your Great Grandfather who </l>
+        <l>Was Aide-de-Camp to General Brue,</l>
+        <picture url="../docs/illus/CTC-42.jpg">
+            <interp resp="sqm">a general on a horse</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l>And lost a leg at Waterloo, </l>
+        <picture url="../docs/illus/CTC-43.jpg">
+            <interp resp="sqm">a man hopping on one leg</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l>And Quatre-Bras and</l>
+        <picture url="../docs/illus/CTC-44.jpg">
+            <interp resp="sqm">a man hopping on one leg again</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l>Ligny too!</l>
+        <picture url="../docs/illus/CTC-45.jpg">
+            <interp resp="sqm">a man hopping on one leg and falling</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l>And died at Trafalgar!—</l>
+        <picture url="../docs/illus/CTC-46.jpg">
+            <interp resp="sqm">a man being shot on a bridge</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l> What would he have remarked to hear</l>
+        <l>His Young Descendant shriek with fear,</l>
+        <l>Because he happened to be near</l>
+        <l>A Harmless Motor-Car!</l>
+        <l>But do not fret about it! Come!</l>
+        <l>We’ll off to Town And purchase some!”</l>
+        <picture url="../docs/illus/CTC-47.jpg">
+            <interp resp="sqm">a man and a young boy with a line of cars behind them</interp>
+        </picture>
+    </lg>
+
+
+</root>
