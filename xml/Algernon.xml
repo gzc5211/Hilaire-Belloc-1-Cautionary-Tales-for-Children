@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <descrip>Algernon, Who played with a Loaded Gun, and, on missing his Sister was reprimanded by
+        his Father. </descrip>
+    <lg>
+        <l>Young Algernon, the Doctor’s Son,</l>
+        <l>Was playing with a Loaded Gun.</l>
+        <picture url="../docs/illus/CTC-36.jpg">
+            <interp resp="sqm">a boy looking down the barrel of a gun</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l>He pointed it towards his sister,</l>
+        <l>Aimed very carefully, but Missed her!</l>
+        <picture url="../docs/illus/CTC-37.jpg">
+            <interp resp="sqm">a boy pointing a gun to the left of the book</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l>His Father, who was standing near,</l>
+        <picture url="../docs/illus/CTC-38.jpg">
+            <interp resp="sqm">a man standing and plugging his ears</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l>The Loud Explosion chanced to Hear,</l>
+        <picture url="../docs/illus/CTC-39.jpg">
+            <interp resp="sqm">a man and the boy standing together worried</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l>And reprimanded Algernon</l>
+        <l>For playing with a Loaded Gun.</l>
+    </lg>
+</root>
