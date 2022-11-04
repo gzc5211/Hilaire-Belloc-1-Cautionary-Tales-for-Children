@@ -33,6 +33,10 @@
 
     <lg>
         <l>that! Abandoned Boy!</l>
+        
+        <picture url="../docs/illus/CTC-24.jpg.png">
+            <interp resp="KP">Man hits messy kid.</interp>
+        </picture>
         <l>For Playing with Disgusting Mud</l>
         <l>As though it were a Toy!”</l>
     </lg>
@@ -49,5 +53,8 @@
         <l>But, on the other Hand,</l>
         <l>Children in ordinary Dress</l>
         <l>May always play with Sand.</l>
+        <picture url="../docs/illus/CTC-25.jpg.png">
+            <interp resp="KP">A man kicks a messy child.</interp>
+        </picture>
     </lg>
 </root>
