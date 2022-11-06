@@ -18,7 +18,10 @@
 <l>But merely smirked and nodded</l></lg>
 
 
-<lg><l>thus:</l>
+    <lg><picture url="../docs/illus/CT-27.jpg.png">
+        <interp resp="KP">A poor man shows respect to a wealthier man.</interp>
+    </picture>
+<l>thus:</l>
 <l>How perfectly ridiculous!</l>
 <l>Alas! That such Affected Tricks</l>
 <l>Should flourish in a Child of Six!</l>
@@ -28,34 +31,54 @@
 <l>Whereat</l></lg>
 
 
-<lg><l>the Lord High Chamberlain</l>
+    <lg><picture url="../docs/illus/CTC-27.jpg.png">
+        <interp resp="KP">Distinguished man stands with scepter.</interp>
+    </picture>
+    <l>the Lord High Chamberlain</l>
 <l>(The Kindest and the Best of Men),</l>
 <l>He went good-naturedly and</l></lg>
 
 
 
-<lg><l>took</l>
+    <lg><picture url="../docs/illus/CTC-28.jpg.png">
+        <interp resp="KP">A man walks with a book.</interp>
+    </picture>
+    <l>took</l>
 <l>A Perfectly Enormous Book</l>
 <l>Called People Qualified to Be</l>
 <l>Attendant on His Majesty,</l>
 <l>And murmured, as he scanned the list</l>
 <l>(To see that no one should be missed),</l>
-<l>“There’s</l></lg>
+<l>“There’s</l> 
+        <picture url="../docs/illus/CTC-29.jpg.png">
+            <interp resp="KP">A man sleeping in bed.</interp>
+        </picture>
+    </lg>
 
 
 
 <lg><l>William Coutts has got the Flue,
 </l>
+    <picture url="../docs/illus/CTC-30.jpg.png">
+        <interp resp="KP">A man stands widely.</interp>
+    </picture>
 
 <l>And Billy Higgs would never do,</l>
 
-<l>And Guy de Vere is far too young,</l></lg>
+<l>And Guy de Vere is far too young,</l>
+    <picture url="../docs/illus/CTC-31.jpg.png">
+        <interp resp="KP">A girl with a toy horse.</interp>
+    </picture>
+</lg>
 
 
 <lg><l>And ... wasn’t D’Alton’s Father hung?</l>
 <l>And as for Alexander Byng!— ...</l>
 <l>I think I know the kind of thing,</l>
 <l>A Churchman, cleanly, nobly born,</l>
+    <picture url="../docs/illus/CTC-32.jpg.png">
+        <interp resp="KP">A man being hung.</interp>
+    </picture>
 <l>Come</l></lg>
 
 <lg><l>let us say Godolphin Horne?”</l>
@@ -76,12 +99,19 @@
 <lg><l>“ ... Well, well, well!</l>
 <l>No doubt you’re right.... One cannot tell!”</l>
 <l>He took his Gold and Diamond Pen</l>
-<l>And</l></lg>
+<l>And</l>
+    <picture url="../docs/illus/CTC-33.jpg.png">
+        <interp resp="KP">A man signing papers.</interp>
+    </picture>
+</lg>
 
 
 <lg><l>Scratched Godolphin out again.</l>
 <l>So now Godolphin is the Boy</l>
 <l>Who blacks the Boots at the Savoy.</l>
+    <picture url="../docs/illus/CTC-34.jpg.png">
+        <interp resp="KP">A shoe-shiner standing next to his shining box.</interp>
+    </picture>
 </lg>
 
 </root>
