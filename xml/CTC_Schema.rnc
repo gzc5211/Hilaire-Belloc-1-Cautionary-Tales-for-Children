@@ -3,7 +3,8 @@ start =
     element Title { text },
     element descrip { text },
     element lg {
-      (element l { text }
+      (element l { mixed{ (person | place | animal | pub )* } }
+      # ebb: You need to encode some mixed content inside <l> elements: How about references to people, animals, places, publications?
        | element picture {
            attribute url { text },
            element interp {
@@ -13,3 +14,9 @@ start =
          })+
     }+
   }
+  
+  person = element person {text}
+  place = element place {text}
+  animal = element animal { text}
+  pub = element pub { text}
+  
