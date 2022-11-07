@@ -44,7 +44,13 @@
   overflow: hidden;
   background-color: #333;
 }
-
+.about-navbar {
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
 li {
   float: left;
 }
@@ -63,6 +69,9 @@ li a:hover:not(.active) {
 
 .active {
   background-color: #F6BA96;
+}
+.about-active {
+	background-color: #F6BA96;
 }
 .about-info {
 	font-size: 40px;
