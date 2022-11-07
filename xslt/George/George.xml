@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <Title>George,</Title>
+    <descrip>Who played with a Dangerous Toy, and suffered a Catastrophe of considerable
+        Dimensions.</descrip>
+
+    <lg>
+        <l>When George’s Grandmamma was told</l>
+
+        <picture url="../docs/illus/CTC-65.jpg">
+            <interp resp="Chen">Three people stand together.</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l>That George had been as good as Gold,</l>
+        <l>She Promised in the Afternoon</l>
+        <l>To buy him an Immense BALLOON.</l>
+        <picture url="../docs/illus/CTC-66.jpg">
+            <interp resp="Chen">One man selling balloon to another.</interp>
+        </picture>
+        <l>And</l>
+    </lg>
+
+
+
+    <lg>
+        <l>so she did; but when it came,</l>
+        <l>It got into the candle flame,</l>
+        <l>And being of a dangerous sort</l>
+        <l>Exploded</l>
+        <picture url="../docs/illus/CTC-67.jpg">
+            <interp resp="Chen">Something exploded infront two peoples.</interp>
+        </picture>
+    </lg>
+
+
+    <lg>
+        <l>with a loud report!</l>
+        <l>The Lights went out! The Windows broke!</l>
+        <l>The Room was filled with reeking smoke.</l>
+        <l>And in the darkness shrieks and yells</l>
+        <l>Were mingled with Electric Bells,</l>
+        <l>And falling masonry and groans,</l>
+        <l>And crunching, as of broken bones,</l>
+        <l>And dreadful shrieks, when, worst of all,</l>
+        <l>The House itself began to fall!</l>
+        <l>It tottered, shuddering to and fro,</l>
+        <l>Then crashed into the street below—</l>
+        <l>Which happened to be Savile Row.</l>
+    </lg>
+
+    <lg>
+        <l>When Help arrived, among the Dead</l>
+
+        <l>Were</l>
+    </lg>
+
+    <lg>
+        <l>Cousin Mary,</l>
+        <picture url="../docs/illus/CTC-68.jpg">
+            <interp resp="Chen">Old lady and a dog.</interp>
+        </picture>
+    </lg>
+
+    <lg>
+        <l>Little Fred,</l>
+        <picture url="../docs/illus/CTC-69.jpg">
+            <interp resp="Chen">A little boy.</interp>
+        </picture>
+    </lg>
+
+
+
+    <lg>
+        <l>The Footmen</l>
+        <picture url="../docs/illus/CTC-70.jpg">
+            <interp resp="Chen">Side view of two footmen</interp>
+        </picture>
+    </lg>
+
+    <lg>
+        <l>(both of them),</l>
+        <picture url="../docs/illus/CTC-71.jpg">
+            <interp resp="Chen">View of two footmen</interp>
+        </picture>
+    </lg>
+
+    <lg>
+        <l>The Groom,</l>
+        <picture url="../docs/illus/CTC-72.jpg">
+            <interp resp="Chen">One man with a head.</interp>
+        </picture>
+    </lg>
+
+
+    <lg>
+        <l>The man that cleaned the Billiard-Room,</l>
+        <picture url="../docs/illus/CTC-73.jpg">
+            <interp resp="Chen">Cleaning man.</interp>
+        </picture>
+    </lg>
+
+
+    <lg>
+        <l>The Chaplain, and</l>
+        <picture url="../docs/illus/CTC-74.jpg">
+            <interp resp="Chen">A man with black coat.</interp>
+        </picture>
+    </lg>
+
+    <lg>
+        <l>The Still-Room Maid.</l>
+        <picture url="../docs/illus/CTC-75.jpg">
+            <interp resp="Chen">An cleaning lady.</interp>
+        </picture>
+        <l>And I am dreadfully afraid</l>
+        <l>That Monsieur Champignon, the Chef,</l>
+        <picture url="../docs/illus/CTC-76.jpg">
+            <interp resp="Chen">One waiter and a chef.</interp>
+        </picture>
+        <l>Will now be</l>
+    </lg>
+
+    <lg>
+        <l>permanently deaf—</l>
+        <l>And both his</l>
+        <picture url="../docs/illus/CTC-77.jpg">
+            <interp resp="Chen">Three peoples stand.</interp>
+        </picture>
+        <l>Aides</l>
+
+    </lg>
+
+    <lg>
+        <l>are much the same;</l>
+        <l>While George, who was in part to blame,</l>
+        <l>Received, you will regret to hear,</l>
+        <l>A nasty lump</l>
+        <picture url="../docs/illus/CTC-78.jpg">
+            <interp resp="Chen">One man carry.</interp>
+        </picture>
+    </lg>
+    <lg>
+        <l>behind the ear.</l>
+    </lg>
+
+
+    <lg>
+        <l>MORAL</l>
+        <l>The moral is that little Boys</l>
+        <l>Should not be given dangerous Toys.</l>
+    </lg>
+
+</root>
