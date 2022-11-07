@@ -80,3 +80,9 @@ li a:hover:not(.active) {
  	right: 00px;
  	top: 30%;
 }
+
+body {
+	margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
