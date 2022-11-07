@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?><root>
+    <Title>Rebecca,</Title>
+
+    <descrip>Who slammed Doors for Fun and Perished Miserably.</descrip>
+
+
+
+
+    <lg num="1">
+        <l num="1"> A Trick that everyone abhors</l>
+        <l num="2">In Little Girls is slamming Doors.</l>
+        <l num="3">A</l>
+    </lg>
+
+
+    <lg num="2">
+        <l num="1">Wealthy Banker’s</l>
+        <picture url="../docs/illus/CTC-58.jpg">
+            <interp resp="Chen">A man holding a head and a arutch</interp>
+        </picture>
+    </lg>
+
+
+
+    <lg num="3">
+        <l num="1">Little Daughter</l>
+        <picture url="../docs/illus/CTC-59.jpg">
+            <interp resp="Chen">A little girl</interp>
+        </picture>
+    </lg>
+
+    <lg num="4">
+        <l num="1">Who lived in Palace Green, Bayswater</l>
+        <l num="2">(By name Rebecca Offendort),</l>
+        <l num="3">Was given to this Furious Sport.</l>
+    </lg>
+
+    <lg num="5">
+        <l num="1">She would deliberately go</l>
+    </lg>
+
+
+    <lg num="6">
+        <l num="1">And Slam the door like</l>
+        <picture url="../docs/illus/CTC-60.jpg">
+            <interp resp="Chen">A little girl try to close the door</interp>
+        </picture>
+        <l num="2">Billy-Ho!</l>
+    </lg>
+
+
+    <lg num="7">
+        <l num="1">To make</l>
+    </lg>
+
+    <lg num="8">
+        <l num="1">her</l>
+    </lg>
+
+    <lg num="9">
+        <l num="1">Uncle Jacob start.</l>
+        <picture url="../docs/illus/CTC-61.jpg">
+            <interp resp="Chen">A man droping something</interp>
+        </picture>
+        <l num="2">She was not really bad at heart,</l>
+        <l num="3">But only rather rude and wild:</l>
+        <l num="4">She was an aggravating child....</l>
+    </lg>
+
+    <lg num="10">
+        <l num="1">It happened that a Marble Bust</l>
+        <l num="2">Of Abraham was standing just</l>
+        <l num="3">Above the Door this little Lamb</l>
+        <l num="4">Had carefully prepared to Slam,</l>
+        <l num="5">And Down it came! It knocked her flat!</l>
+        <picture url="../docs/illus/CTC-62.jpg">
+            <interp resp="Chen">A girl hanging</interp>
+        </picture>
+    </lg>
+
+
+
+    <lg num="11">
+        <l num="1">It laid her out! She looked like that.</l>
+        <picture url="../docs/illus/CTC-63.jpg">
+            <interp resp="Chen">a man holding something</interp>
+        </picture>
+    </lg>
+
+
+
+
+    <lg num="12">
+        <l num="1">Her funeral Sermon (which was long</l>
+        <l num="2">And followed by a Sacred Song)</l>
+        <l num="3">Mentioned her Virtues, it is true,</l>
+        <l num="4">But dwelt upon her Vices too,</l>
+        <l num="5">And showed the Dreadful End of One</l>
+        <l num="6">Who goes and slams the door for Fun.</l>
+    </lg>
+
+    <lg num="13">
+        <l num="1">The children who were brought to hear</l>
+        <l num="2">The awful Tale from far and near</l>
+        <l num="3">Were much impressed,</l>
+    </lg>
+
+
+    <lg num="14">
+        <l num="1">and inly swore</l>
+        <l num="2">They never more would slam the Door.</l>
+        <l num="3">—As often they had done before.</l>
+        <picture url="../docs/illus/CTC-64.jpg">
+            <interp resp="Chen">group of people praying</interp>
+        </picture>
+    </lg>
+
+
+
+</root>
