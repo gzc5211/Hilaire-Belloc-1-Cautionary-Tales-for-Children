@@ -1,0 +1,15 @@
+start =
+  element root {
+    element Title { text },
+    element descrip { text },
+    element lg {
+      (element l { text }
+       | element picture {
+           attribute url { text },
+           element interp {
+             attribute resp { xsd:NCName },
+             text
+           }
+         })+
+    }+
+  }
