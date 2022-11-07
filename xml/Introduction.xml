@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<lg>
-    <l>INTRODUCTION</l>
-    <l>Upon being asked by a Reader whether the verses contained in this book were true.</l>
-    <l> And is it True? It is not True.</l>
-    <l>And if it were it wouldn’t do,</l>
-    <l>For people such as me and you</l>
-    <l> Who pretty nearly all day long</l>
-    <l>Are doing something rather wrong.</l>
-    <l>Because if things were really so,</l>
-    <l>You would have perished long ago,</l>
-    <l>And I would not have lived to write</l>
-    <l>The noble lines that meet your sight,</l>
-    <l>Nor B. T. B. survived to draw</l>
-    <l>The nicest things you ever saw.</l>
-    <l> H. B.</l>
-    <picture url="../docs/illus/CTC-1.jpg.png">
-        <interp resp="kzp">A little boy stand up</interp>
-    </picture>
+<?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<lg num="1">
+   <l num="1">INTRODUCTION</l>
+   <l num="2">Upon being asked by a Reader whether the verses contained in this book were true.</l>
+   <l num="3"> And is it True? It is not True.</l>
+   <l num="4">And if it were it wouldn’t do,</l>
+   <l num="5">For people such as me and you</l>
+   <l num="6"> Who pretty nearly all day long</l>
+   <l num="7">Are doing something rather wrong.</l>
+   <l num="8">Because if things were really so,</l>
+   <l num="9">You would have perished long ago,</l>
+   <l num="10">And I would not have lived to write</l>
+   <l num="11">The noble lines that meet your sight,</l>
+   <l num="12">Nor B. T. B. survived to draw</l>
+   <l num="13">The nicest things you ever saw.</l>
+   <l num="14"> H. B.</l>
+   <picture url="../docs/illus/CTC-1.jpg.png">
+      <interp resp="kzp">A little boy stand up</interp>
+   </picture>
 </lg>
