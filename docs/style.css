@@ -86,3 +86,22 @@ body {
     width: 100vw;
     height: 100vh;
 }
+.about-body{
+	font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+.about-section {
+  position: fixed;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+.about-header {
+	padding:128px 16px;
+	
+}
+
+.about-background {
+	background-color: #f44336!important;
+}
+
