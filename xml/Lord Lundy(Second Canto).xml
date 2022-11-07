@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
-    <Tittle>Lord Lundy</Tittle>
+    <Title>Lord Lundy</Title>
     <descrip>(SECOND CANTO)</descrip>
     <lg>
         <l>It happened to Lord Lundy then,</l>
