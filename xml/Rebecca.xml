@@ -1,51 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <descrip>Rebecca,</descrip>
+    <Title>Rebecca,</Title>
+
+    <descrip>Who slammed Doors for Fun and Perished Miserably.</descrip>
+
+
+
+
     <lg>
-        <l>Who slammed Doors for Fun and Perished Miserably.</l>
-    </lg>
-    
-    
-    
-    <lg>
-       <l> A Trick that everyone abhors</l>
+        <l> A Trick that everyone abhors</l>
         <l>In Little Girls is slamming Doors.</l>
         <l>A</l>
     </lg>
-    
-    
-    <lg><l>Wealthy Banker’s</l><picture url="../docs/illus/CTC-58.jpg">
-        <interp resp="Chen">A man holding a head and a arutch</interp>
-    </picture></lg>
-    
-    
-    
-    <lg><l>Little Daughter</l>
+
+
+    <lg>
+        <l>Wealthy Banker’s</l>
+        <picture url="../docs/illus/CTC-58.jpg">
+            <interp resp="Chen">A man holding a head and a arutch</interp>
+        </picture>
+    </lg>
+
+
+
+    <lg>
+        <l>Little Daughter</l>
         <picture url="../docs/illus/CTC-59.jpg">
             <interp resp="Chen">A little girl</interp>
-    </picture>
+        </picture>
     </lg>
-    
-    <lg><l>Who lived in Palace Green, Bayswater</l>
+
+    <lg>
+        <l>Who lived in Palace Green, Bayswater</l>
         <l>(By name Rebecca Offendort),</l>
         <l>Was given to this Furious Sport.</l>
     </lg>
-    
-    <lg><l>She would deliberately go</l></lg>
-    
-   
-    <lg><l>And Slam the door like</l>
+
+    <lg>
+        <l>She would deliberately go</l>
+    </lg>
+
+
+    <lg>
+        <l>And Slam the door like</l>
         <picture url="../docs/illus/CTC-60.jpg">
             <interp resp="Chen">A little girl try to close the door</interp>
-    </picture>
-    <l>Billy-Ho!</l>
+        </picture>
+        <l>Billy-Ho!</l>
     </lg>
-    
-    
-    <lg><l>To make</l></lg>
-    
-    <lg><l>her</l></lg>
-    
+
+
+    <lg>
+        <l>To make</l>
+    </lg>
+
+    <lg>
+        <l>her</l>
+    </lg>
+
     <lg>
         <l>Uncle Jacob start.</l>
         <picture url="../docs/illus/CTC-61.jpg">
@@ -55,7 +67,7 @@
         <l>But only rather rude and wild:</l>
         <l>She was an aggravating child....</l>
     </lg>
-    
+
     <lg>
         <l>It happened that a Marble Bust</l>
         <l>Of Abraham was standing just</l>
@@ -66,35 +78,35 @@
             <interp resp="Chen">A girl hanging</interp>
         </picture>
     </lg>
-    
-    
-    
+
+
+
     <lg>
         <l>It laid her out! She looked like that.</l>
         <picture url="../docs/illus/CTC-63.jpg">
             <interp resp="Chen">a man holding something</interp>
         </picture>
     </lg>
-    
-    
-    
-    
-   <lg>
-       <l>Her funeral Sermon (which was long</l>
-       <l>And followed by a Sacred Song)</l>
-       <l>Mentioned her Virtues, it is true,</l>
-       <l>But dwelt upon her Vices too,</l>
-       <l>And showed the Dreadful End of One</l>
-       <l>Who goes and slams the door for Fun.</l>
-   </lg>
-    
+
+
+
+
+    <lg>
+        <l>Her funeral Sermon (which was long</l>
+        <l>And followed by a Sacred Song)</l>
+        <l>Mentioned her Virtues, it is true,</l>
+        <l>But dwelt upon her Vices too,</l>
+        <l>And showed the Dreadful End of One</l>
+        <l>Who goes and slams the door for Fun.</l>
+    </lg>
+
     <lg>
         <l>The children who were brought to hear</l>
         <l>The awful Tale from far and near</l>
         <l>Were much impressed,</l>
     </lg>
-    
-    
+
+
     <lg>
         <l>and inly swore</l>
         <l>They never more would slam the Door.</l>
@@ -103,7 +115,7 @@
             <interp resp="Chen">group of people praying</interp>
         </picture>
     </lg>
-    
-     
-    
+
+
+
 </root>
