@@ -67,7 +67,7 @@
    </lg>
    <lg num="7">
       <l num="1">The Aged Patriot groaned and died:</l>
-      <l num="2">And gracious! how Lord Lundy cried!</l>
+      <l num="2">And gracious! how <person>Lord Lundy</person> cried!</l>
       <picture url="../docs/illus/CTC-57.jpg">
          <interp resp="Chen">one man are crying</interp>
       </picture>

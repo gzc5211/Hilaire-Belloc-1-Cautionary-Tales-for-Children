@@ -5,13 +5,13 @@
    <descrip>Who played with a Dangerous Toy, and suffered a Catastrophe of considerable
         Dimensions.</descrip>
    <lg num="1">
-      <l num="1">When George’s Grandmamma was told</l>
+      <l num="1">When <person>George’s Grandmamma</person> was told</l>
       <picture url="../docs/illus/CTC-65.jpg">
          <interp resp="Chen">Three people stand together.</interp>
       </picture>
    </lg>
    <lg num="2">
-      <l num="1">That George had been as good as Gold,</l>
+      <l num="1">That <person>George</person> had been as good as Gold,</l>
       <l num="2">She Promised in the Afternoon</l>
       <l num="3">To buy him an Immense BALLOON.</l>
       <picture url="../docs/illus/CTC-66.jpg">
@@ -47,19 +47,19 @@
       <l num="2">Were</l>
    </lg>
    <lg num="6">
-      <l num="1">Cousin Mary,</l>
+      <l num="1"><person>Cousin Mary,</person></l>
       <picture url="../docs/illus/CTC-68.jpg">
          <interp resp="Chen">Old lady and a dog.</interp>
       </picture>
    </lg>
    <lg num="7">
-      <l num="1">Little Fred,</l>
+      <l num="1">Little <person>Fred</person>,</l>
       <picture url="../docs/illus/CTC-69.jpg">
          <interp resp="Chen">A little boy.</interp>
       </picture>
    </lg>
    <lg num="8">
-      <l num="1">The Footmen</l>
+      <l num="1">The <person>Footmen</person></l>
       <picture url="../docs/illus/CTC-70.jpg">
          <interp resp="Chen">Side view of two footmen</interp>
       </picture>
@@ -71,7 +71,7 @@
       </picture>
    </lg>
    <lg num="10">
-      <l num="1">The Groom,</l>
+      <l num="1"><person>The Groom,</person></l>
       <picture url="../docs/illus/CTC-72.jpg">
          <interp resp="Chen">One man with a head.</interp>
       </picture>
@@ -83,18 +83,18 @@
       </picture>
    </lg>
    <lg num="12">
-      <l num="1">The Chaplain, and</l>
+      <l num="1">The <person>Chaplain</person>, and</l>
       <picture url="../docs/illus/CTC-74.jpg">
          <interp resp="Chen">A man with black coat.</interp>
       </picture>
    </lg>
    <lg num="13">
-      <l num="1">The Still-Room Maid.</l>
+      <l num="1">The <person>Still-Room Maid</person>.</l>
       <picture url="../docs/illus/CTC-75.jpg">
          <interp resp="Chen">An cleaning lady.</interp>
       </picture>
       <l num="2">And I am dreadfully afraid</l>
-      <l num="3">That Monsieur Champignon, the Chef,</l>
+      <l num="3">That<person> Monsieur Champignon</person>, the <person>Chef</person>,</l>
       <picture url="../docs/illus/CTC-76.jpg">
          <interp resp="Chen">One waiter and a chef.</interp>
       </picture>
