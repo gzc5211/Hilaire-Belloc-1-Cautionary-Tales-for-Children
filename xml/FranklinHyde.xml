@@ -2,17 +2,17 @@
 
 <root>
     <title>Franklin Hyde,</title>
-    <descrip>Who caroused in the Dirt and was corrected by His Uncle.</descrip>
+    <descrip>Who caroused in the <earth>Dirt</earth> and was <action>corrected</action> by His <person>Uncle.</person></descrip>
 
 
 
     <lg>
         <picture url="../docs/illus/CTC-22.jpg.png">
-            <interp resp="KP">A man looks disappointed at a kid dripping in mud.</interp>
+            <interp resp="KP">A man <action>looks</action> disappointed at a kid dripping in <earth>mud.</earth></interp>
         </picture>
-        <l>His Uncle came on Franklin Hyde</l>
-        <l>Carousing in the Dirt.</l>
-        <l>He Shook him hard from Side to Side</l>
+        <l>His <person>Uncle</person> came on Franklin Hyde</l>
+        <l><action>Carousing</action> in the <earth>Dirt.</earth></l>
+        <l>He <action>Shook</action> him hard from Side to Side</l>
         <l>And</l>
     </lg>
 
@@ -22,11 +22,11 @@
         <picture url="../docs/illus/CTC-23.jpg.png">
             <interp resp="KP">A man hitting a child.</interp>
         </picture>
-        <l>Hit him till it Hurt,</l>
+        <l><action>Hit</action> him till it Hurt,</l>
 
 
 
-        <l>Exclaiming, with a Final Thud, “Take</l>
+        <l><action>Exclaiming,</action> with a Final Thud, “Take</l>
     </lg>
 
 
@@ -37,22 +37,22 @@
         <picture url="../docs/illus/CTC-24.jpg.png">
             <interp resp="KP">Man hits messy kid.</interp>
         </picture>
-        <l>For Playing with Disgusting Mud</l>
-        <l>As though it were a Toy!”</l>
+        <l>For <action>Playing</action> with Disgusting <earth>Mud</earth></l>
+        <l>As though it were a <object>Toy!”</object></l>
     </lg>
 
 
 
     <h1>MORAL</h1>
     <lg>
-        <l>From Franklin Hyde’s adventure, learn</l>
-        <l>To pass your Leisure Time</l>
+        <l>From Franklin Hyde’s adventure, <action>learn</action></l>
+        <l>To <action>pass</action> your Leisure Time</l>
         <l>In Cleanly Merriment, and turn</l>
-        <l>From Mud and Ooze and Slime</l>
+        <l>From <earth>Mud</earth> and Ooze and Slime</l>
         <l>And every form of Nastiness—</l>
         <l>But, on the other Hand,</l>
         <l>Children in ordinary Dress</l>
-        <l>May always play with Sand.</l>
+        <l>May always <action>play</action> with <earth>Sand.</earth></l>
         <picture url="../docs/illus/CTC-25.jpg.png">
             <interp resp="KP">A man kicks a messy child.</interp>
         </picture>

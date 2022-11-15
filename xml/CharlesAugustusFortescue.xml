@@ -5,11 +5,11 @@
 </descrip>
 
 
-<lg><l>The nicest child I ever knew</l>
-<l>Was Charles Augustus Fortescue.</l>
-<l>He never lost his cap, or tore</l>
-<l>His stockings or his pinafore:</l>
-<l>In eating Bread he made no Crumbs,</l>
+<lg><l>The <adject>nicest</adject> child I ever knew</l>
+<l>Was <person>Charles Augustus Fortescue.</person></l>
+<l>He never lost his <clothing>cap,</clothing> or tore</l>
+<l>His <clothing>stockings</clothing> or his pinafore:</l>
+<l>In <action>eating</action> <food>Bread</food> he made no <food>Crumbs,</food></l>
 <l>He was extremely fond of sums,</l>
     <picture url="../docs/illus/CTC-79.jpg.png">
         <interp resp="KP">A child talks to his father while his father is reading a newspaper.</interp>
@@ -21,10 +21,10 @@
 <l>The Parsing of a Latin Word—</l>
 <l>He sought, when it was in his power,</l>
 <l>For information twice an hour,</l>
-<l>And as for finding Mutton-Fat</l>
+<l>And as for <action>finding</action> <food>Mutton-Fat</food></l>
 <l>Unappetising, far from that!</l>
 <l>He often, at his Father’s Board,</l>
-<l>Would beg them, of his own accord,</l>
+<l>Would <action>beg</action> them, of his own accord,</l>
     <picture url="../docs/illus/CTC-80.jpg.png">
         <interp resp="KP">A family eating dinner at the table.</interp>
     </picture>
@@ -35,7 +35,7 @@
 <l>The Greasiest Morsels they could find—</l>
 <l>His Later Years did not belie</l>
 <l>The Promise of his Infancy.</l>
-<l>In Public Life he always tried</l>
+<l>In Public Life he always <action>tried</action></l>
 <l>To take a judgment Broad and Wide;</l>
     <picture url="../docs/illus/CTC-81.jpg.png">
         <interp resp="KP">A younger man telling an older man to sit on a stool.</interp>
@@ -45,9 +45,9 @@
 
 <lg><l>In Private, none was more than he</l>
 <l>Renowned for quiet courtesy.</l>
-<l>He rose at once in his Career,</l>
+<l>He <action>rose</action> at once in his Career,</l>
 <l>And long before his Fortieth Year</l>
-<l>Had wedded</l>
+<l>Had <action>wedded</action></l>
 <l>Fifi,</l>
 </lg>
 
@@ -60,7 +60,7 @@
     <l>Only Child</l>
 <l>Of Bunyan, First Lord Aberfylde.</l>
 <l>He thus became immensely Rich,</l>
-<l>And built the Splendid Mansion which</l>
+<l>And <action>built</action> the Splendid Mansion which</l>
 <l>Is called</l>
         <picture url="../docs/illus/CTC-83.jpg.png">
             <interp resp="KP">A mansion.</interp>
