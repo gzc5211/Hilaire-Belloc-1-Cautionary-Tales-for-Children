@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
-   <title>Godolphin Horne,</title>
+   <title><person>Godolphin Horne</person>,</title>
    <descrip>Who was cursed with the Sin of Pride, and Became a Boot-Black.</descrip>
    <lg num="1">
       <picture url="../docs/illus/CTC-26.jpg.png">
          <interp resp="KP">A man stands next to his shadow.</interp>
       </picture>
-      <l num="1">Godolphin Horne was Nobly Born;</l>
+      <l num="1"><person>Godolphin Horne</person> was Nobly Born;</l>
       <l num="2">He held the Human Race in Scorn,</l>
       <l num="3">And lived with all his Sisters where</l>
-      <l num="4">His father lived, in Berkeley Square.</l>
+      <l num="4">His father lived, in <place>Berkeley Square</place>.</l>
       <l num="5">And oh! the Lad was Deathly Proud!</l>
       <l num="6">He never shook your Hand or Bowed,</l>
       <l num="7">But merely smirked and nodded</l>
@@ -23,10 +23,10 @@
       <l num="2">How perfectly ridiculous!</l>
       <l num="3">Alas! That such Affected Tricks</l>
       <l num="4">Should flourish in a Child of Six!</l>
-      <l num="5">(For such was Young Godolphin’s age).</l>
+      <l num="5">(For such was Young <person>Godolphin</person>’s age).</l>
    </lg>
    <lg num="3">
-      <l num="1">Just then, the Court required a Page,</l>
+      <l num="1">Just then, the <pub>Court</pub> required a Page,</l>
       <l num="2">Whereat</l>
    </lg>
    <lg num="4">
@@ -53,20 +53,20 @@
       </picture>
    </lg>
    <lg num="6">
-      <l num="1">William Coutts has got the Flue,
+      <l num="1"><person>William Coutts</person> has got the Flue,
 </l>
       <picture url="../docs/illus/CTC-30.jpg.png">
          <interp resp="KP">A man stands widely.</interp>
       </picture>
-      <l num="2">And Billy Higgs would never do,</l>
+      <l num="2">And <person>Billy Higgs</person> would never do,</l>
       <l num="3">And Guy de Vere is far too young,</l>
       <picture url="../docs/illus/CTC-31.jpg.png">
-         <interp resp="KP">A girl with a toy horse.</interp>
+         <interp resp="KP">A girl with a toy <animal>horse</animal>.</interp>
       </picture>
    </lg>
    <lg num="7">
-      <l num="1">And ... wasn’t D’Alton’s Father hung?</l>
-      <l num="2">And as for Alexander Byng!— ...</l>
+      <l num="1">And ... wasn’t <person>D’Alton</person>’s Father hung?</l>
+      <l num="2">And as for <person>Alexander</person> Byng!— ...</l>
       <l num="3">I think I know the kind of thing,</l>
       <l num="4">A Churchman, cleanly, nobly born,</l>
       <picture url="../docs/illus/CTC-32.jpg.png">
@@ -75,7 +75,7 @@
       <l num="5">Come</l>
    </lg>
    <lg num="8">
-      <l num="1">let us say Godolphin Horne?”</l>
+      <l num="1">let us say <person>Godolphin Horne</person>?”</l>
       <l num="2">But hardly had he said the word</l>
       <l num="3">When Murmurs of Dissent were heard.</l>
       <l num="4">The King of Iceland’s Eldest Son</l>
@@ -84,7 +84,7 @@
       <l num="7">Remarked, in her sub-acid tone,</l>
       <l num="8">“I doubt if He is what we need!”</l>
       <l num="9">With which the Bishops all agreed;</l>
-      <l num="10">And even Lady Mary Flood</l>
+      <l num="10">And even Lady <person>Mary</person> Flood</l>
       <l num="11">(So Kind, and oh! so really good)</l>
       <l num="12">Said, “No! He wouldn’t do at all,</l>
       <l num="13">He’d make us feel a lot too small,”</l>
@@ -99,8 +99,8 @@
       </picture>
    </lg>
    <lg num="10">
-      <l num="1">Scratched Godolphin out again.</l>
-      <l num="2">So now Godolphin is the Boy</l>
+      <l num="1">Scratched <person>Godolphin</person> out again.</l>
+      <l num="2">So now <person>Godolphin</person> is the Boy</l>
       <l num="3">Who blacks the Boots at the Savoy.</l>
       <picture url="../docs/illus/CTC-34.jpg.png">
          <interp resp="KP">A shoe-shiner standing next to his shining box.</interp>
