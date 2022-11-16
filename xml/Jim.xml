@@ -1,95 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
-    
-
-<lg>
-       <l> Jim,</l>
-       <l> Who ran away from his Nurse, and was eaten by a Lion.</l>
-    <picture url="../docs/illus/CTC-2.jpg.png">
-        <interp resp="gvc">A picture of a lion lying on the ground</interp>
-    </picture>
-        <l>There was a Boy whose name was Jim;</l>
-        <l>His Friends were very good to him.</l>
-       <l> They gave him Tea, and Cakes, and Jam,</l>
-        <l>And slices of delicious Ham,</l>
-        <l>And Chocolate with pink inside,</l>
-        <l>And little Tricycles to ride,</l>
-        <l>And</l>
-    <picture url="../docs/illus/CTC-3.jpg.png">
-        <interp resp="gvc">A picture of an older man reading to a child.</interp>
-    </picture>
-    <l>read him Stories through and through,</l>
-    <l>And even took him to the Zoo—</l>
-    <l>But there it was the dreadful Fate</l>
-    <l>Befell him, which I now relate.</l>
-    
-    <l>You know—at least you ought to know.</l>
-    <l>For I have often told you so—</l>
-   <l> That Children never are allowed</l>
-    <l>To leave their Nurses in a Crowd;</l>
-    
-    
-    <l>Now this was Jim’s especial Foible,</l>
-    <l>He ran away when he was able,</l>
-    <l>And on this inauspicious day</l>
-    <l>He slipped his hand and ran away!</l>
-    <l>He hadn’t gone a yard when—</l>
-    <picture url="../docs/illus/CTC-4.jpg.png">
-        <interp resp="gvc">A picture of a lion push a man</interp>
-    </picture>
-    <l>Bang!</l>
-    <l>With open Jaws, a Lion sprang,</l>
-    <l>And hungrily began to eat</l>
-    <l>The Boy: beginning at his feet.</l>
-    <l>Now just imagine how it feels</l>
-    <l>When first your toes and then your heels,</l>
-    <l>And then by gradual degrees,</l>
-    <l>Your shins and ankles, calves and knees,</l>
-    <l>Are slowly eaten, bit by bit.</l>
-    <picture url="../docs/illus/CTC-5.jpg.png">
-        <interp resp="gvc">A picture of a lion push a man down</interp>
-    </picture>
-    <l>No wonder Jim detested it!</l>
-    <l>No wonder that he shouted “Hi!”</l>
-    <l>The Honest Keeper heard his cry,</l>
-    <l>Though very fat</l>
-    <picture url="../docs/illus/CTC-6.jpg.png">
-        <interp resp="gvc">A picture of a fat man walking with a stick</interp>
-    </picture>
-    <l>he almost ran</l>
-    <l>To help the little gentleman.</l>
-    <l>“Ponto!” he ordered as he came</l>
-    <l>(For Ponto was the Lion’s name),</l>
-    <l>“Ponto!” he cried,</l>
-    <picture url="../docs/illus/CTC-7.jpg.png">
-        <interp resp="gvc">A picture of a man smoking</interp>
-    </picture>
-   <l> with angry Frown.</l>
-    <l>“Let go, Sir! Down, Sir! Put it down!”</l>
-    <l> The Lion made a sudden Stop,</l>
-   <l> He let the Dainty Morsel drop,</l>
-   <l> And slunk reluctant to his Cage,</l>
-    <l>Snarling with Disappointed Rage</l>
-    <l>But when he bent him over Jim,</l>
-   <l> The Honest Keeper’s</l>
-    <picture url="../docs/illus/CTC-8.jpg.png">
-        <interp resp="gvc">A picture of a man poking with a man's head</interp>
-    </picture>
-   <l> Eyes were dim.</l>
-    <l>The Lion having reached his Head,</l>
-    <l>The Miserable Boy was dead!</l>
-    <picture url="../docs/illus/CTC-9.jpg.png">
-        <interp resp="gvc">A picture of an old woman talking with a couple</interp>
-    </picture>
-   <l> When Nurse informed his Parents, they</l>
-    <l>Were more Concerned than I can say:—</l>
-    <l>His Mother, as She dried her eyes,</l>
-   <l> Said, “Well—it gives me no surprise,</l>
-    <l>He would not do as he was told!”</l>
-    <l>His Father, who was self-controlled,</l>
-   <l> Bade all the children round attend</l>
-   <l> To James’ miserable end,</l>
-    <l>And always keep a-hold of Nurse</l>
-    <l>For fear of finding something worse.</l>
-    </lg>
+   <lg num="1">
+      <l num="1"> <person>Jim</person>,</l>
+      <l num="2"> Who ran away from his <career>Nurse</career>, and was eaten by a <animal>Lion</animal>.</l>
+      <picture url="../docs/illus/CTC-2.jpg.png">
+         <interp resp="gvc">A picture of a <animal>lion</animal> lying on the ground</interp>
+      </picture>
+      <l num="3">There was a Boy whose name was <person>Jim</person>;</l>
+      <l num="4">His Friends were very good to him.</l>
+      <l num="5"> They gave him<food> Tea</food>, and <food>Cakes</food>, and <food>Jam</food>,</l>
+      <l num="6">And slices of delicious<food> Ham</food>,</l>
+      <l num="7">And <food>Chocolate</food> with <color>pink</color> inside,</l>
+      <l num="8">And little Tricycles to ride,</l>
+      <l num="9">And</l>
+      <picture url="../docs/illus/CTC-3.jpg.png">
+         <interp resp="gvc">A picture of an older man reading to a child.</interp>
+      </picture>
+      <l num="10">read him Stories through and through,</l>
+      <l num="11">And even took him to the <place>Zoo</place>—</l>
+      <l num="12">But there it was the dreadful Fate</l>
+      <l num="13">Befell him, which I now relate.</l>
+      <l num="14">You know—at least you ought to know.</l>
+      <l num="15">For I have often told you so—</l>
+      <l num="16"> That Children never are allowed</l>
+      <l num="17">To leave their<career> Nurses</career> in a Crowd;</l>
+      <l num="18">Now this was <person>Jim</person>’s especial Foible,</l>
+      <l num="19">He ran away when he was able,</l>
+      <l num="20">And on this inauspicious day</l>
+      <l num="21">He slipped his hand and ran away!</l>
+      <l num="22">He hadn’t gone a yard when—</l>
+      <picture url="../docs/illus/CTC-4.jpg.png">
+         <interp resp="gvc">A picture of a <animal>lion</animal> push a man</interp>
+      </picture>
+      <l num="23">Bang!</l>
+      <l num="24">With open Jaws, a <animal>Lion</animal> sprang,</l>
+      <l num="25">And hungrily began to eat</l>
+      <l num="26">The Boy: beginning at his feet.</l>
+      <l num="27">Now just imagine how it feels</l>
+      <l num="28">When first your toes and then your heels,</l>
+      <l num="29">And then by gradual degrees,</l>
+      <l num="30">Your shins and ankles, calves and knees,</l>
+      <l num="31">Are slowly eaten, bit by bit.</l>
+      <picture url="../docs/illus/CTC-5.jpg.png">
+         <interp resp="gvc">A picture of a <animal>lion</animal> push a man down</interp>
+      </picture>
+      <l num="32">No wonder <person>Jim</person> detested it!</l>
+      <l num="33">No wonder that he shouted “Hi!”</l>
+      <l num="34">The Honest Keeper heard his cry,</l>
+      <l num="35">Though very fat</l>
+      <picture url="../docs/illus/CTC-6.jpg.png">
+         <interp resp="gvc">A picture of a fat man walking with a stick</interp>
+      </picture>
+      <l num="36">he almost ran</l>
+      <l num="37">To help the little gentleman.</l>
+      <l num="38">“Ponto!” he ordered as he came</l>
+      <l num="39">(For Ponto was the<animal> Lion</animal>’s name),</l>
+      <l num="40">“Ponto!” he cried,</l>
+      <picture url="../docs/illus/CTC-7.jpg.png">
+         <interp resp="gvc">A picture of a man smoking</interp>
+      </picture>
+      <l num="41"> with angry Frown.</l>
+      <l num="42">“Let go, Sir! Down, Sir! Put it down!”</l>
+      <l num="43"> The<animal> Lion</animal> made a sudden Stop,</l>
+      <l num="44"> He let the Dainty Morsel drop,</l>
+      <l num="45"> And slunk reluctant to his Cage,</l>
+      <l num="46">Snarling with Disappointed Rage</l>
+      <l num="47">But when he bent him over <person>Jim</person>,</l>
+      <l num="48"> The Honest Keeper’s</l>
+      <picture url="../docs/illus/CTC-8.jpg.png">
+         <interp resp="gvc">A picture of a man poking with a man's head</interp>
+      </picture>
+      <l num="49"> Eyes were dim.</l>
+      <l num="50">The<animal> Lion</animal> having reached his Head,</l>
+      <l num="51">The Miserable Boy was dead!</l>
+      <picture url="../docs/illus/CTC-9.jpg.png">
+         <interp resp="gvc">A picture of an old woman talking with a couple</interp>
+      </picture>
+      <l num="52"> When <career>Nurse</career> informed his Parents, they</l>
+      <l num="53">Were more Concerned than I can say:—</l>
+      <l num="54">His Mother, as She dried her eyes,</l>
+      <l num="55"> Said, “Well—it gives me no surprise,</l>
+      <l num="56">He would not do as he was told!”</l>
+      <l num="57">His Father, who was self-controlled,</l>
+      <l num="58"> Bade all the children round attend</l>
+      <l num="59"> To <person>James</person>’ miserable end,</l>
+      <l num="60">And always keep a-hold of <career>Nurse</career></l>
+      <l num="61">For fear of finding something worse.</l>
+   </lg>
 </root>

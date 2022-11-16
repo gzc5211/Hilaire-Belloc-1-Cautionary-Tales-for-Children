@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+   <Title>Lord Lundy</Title>
+   <descrip>(SECOND CANTO)</descrip>
+   <lg num="1">
+      <l num="1">It happened to <person>Lord Lundy</person> then,</l>
+      <l num="2">As happens to so many men:</l>
+      <l num="3">Towards the age of twenty-six,</l>
+      <l num="4">They shoved him into politics;</l>
+      <l num="5">In which profession he commanded</l>
+      <l num="6">The income that his rank demanded</l>
+      <l num="7">In turn as Secretary for</l>
+      <l num="8">
+         <place>India</place>, <place>the Colonies</place>, and War.</l>
+      <l num="9">But very soon his friends began</l>
+      <l num="10">To doubt if he were quite the man:</l>
+      <l num="11">Thus, if a member rose to say</l>
+      <picture url="../docs/illus/CTC-54.jpg">
+         <interp resp="Chen">A man put his hand up</interp>
+      </picture>
+      <l num="12">(As members do from day to day),</l>
+   </lg>
+   <lg num="2">
+      <l num="1">“Arising out of that reply ...!”</l>
+   </lg>
+   <lg num="3">
+      <l num="1">
+         <person>Lord Lundy</person> would begin to cry.</l>
+      <picture url="../docs/illus/CTC-55.jpg">
+         <interp resp="Chen">A man just stand up and holding a papaer try to read.</interp>
+      </picture>
+      <l num="2">A Hint at harmless little jobs</l>
+      <l num="3">Would shake him with convulsive sobs.</l>
+   </lg>
+   <lg num="4">
+      <l num="1">While as for Revelations, these</l>
+      <l num="2">Would simply bring him to his knees,</l>
+      <l num="3">And leave him whimpering like a <person>child</person>.</l>
+      <l num="4">It drove his Colleagues raving wild!</l>
+      <l num="5">They let him sink from Post to Post,</l>
+      <l num="6">From fifteen hundred at the most</l>
+      <l num="7">To eight, and barely six—and then</l>
+      <l num="8">To be Curator of <place>Big Ben</place>!...</l>
+      <l num="9">And finally there came a Threat</l>
+      <l num="10">To oust him from the Cabinet!</l>
+   </lg>
+   <lg num="5">
+      <l num="1">
+         <person>The Duke</person>—his aged grand-sire—bore</l>
+      <l num="2">The shame till he could bear no more.</l>
+      <l num="3">He rallied his declining powers,</l>
+      <l num="4">Summoned the youth to <place>Brackley Towers</place>,</l>
+      <l num="5">And bitterly addressed him thus—</l>
+      <l num="6">“Sir! you have disappointed us!</l>
+      <l num="7">We had intended you to be</l>
+      <l num="8">The next Prime Minister but three:</l>
+      <l num="9">The stocks were sold; the Press was squared:</l>
+      <l num="10">The Middle Class was quite prepared.</l>
+      <l num="11">But as it is!... My language fails!</l>
+   </lg>
+   <lg num="6">
+      <l num="1">Go out and govern <place>New South Wales</place>!”</l>
+      <picture url="../docs/illus/CTC-56.jpg">
+         <interp resp="Chen">one man pointing to another man</interp>
+      </picture>
+   </lg>
+   <lg num="7">
+      <l num="1">The Aged Patriot groaned and died:</l>
+      <l num="2">And gracious! how <person>Lord Lundy</person> cried!</l>
+      <picture url="../docs/illus/CTC-57.jpg">
+         <interp resp="Chen">one man are crying</interp>
+      </picture>
+   </lg>
+</root>

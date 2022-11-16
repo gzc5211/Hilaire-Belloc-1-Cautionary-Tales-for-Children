@@ -8,7 +8,7 @@
 
 
 .title {
-	font-size: 90px;
+	font-size: 50px;
 	font-family: 'Courier New', monospace;
 	position: absolute;
  	right: 00px;
@@ -44,7 +44,13 @@
   overflow: hidden;
   background-color: #333;
 }
-
+.about-navbar {
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
 li {
   float: left;
 }
@@ -64,6 +70,9 @@ li a:hover:not(.active) {
 .active {
   background-color: #F6BA96;
 }
+.about-active {
+	background-color: #F6BA96;
+}
 .about-info {
 	font-size: 40px;
 	display: block;
@@ -80,3 +89,28 @@ li a:hover:not(.active) {
  	right: 00px;
  	top: 30%;
 }
+
+body {
+	margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+.about-body{
+	font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+.about-section {
+  position: fixed;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+.about-header {
+	padding:128px 16px;
+	
+}
+
+.about-background {
+	background-color: #f44336!important;
+}
+
