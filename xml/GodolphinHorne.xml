@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
-<<<<<<< HEAD
     <title>Godolphin Horne,</title>
 <descrip>Who was cursed with the Sin of Pride, and Became a Boot-Black.</descrip>
 
@@ -223,4 +222,3 @@
       </picture>
    </lg>
 </root>
->>>>>>> 6220d206c5f616140dcef87d8308d3a763b49202

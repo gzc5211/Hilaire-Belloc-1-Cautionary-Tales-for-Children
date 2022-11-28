@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
-<<<<<<< HEAD
     <title>Franklin Hyde,</title>
     <descrip>Who caroused in the <earth>Dirt</earth> and was <action>corrected</action> by His <person>Uncle.</person></descrip>
 
@@ -99,5 +98,4 @@
          <interp resp="KP">A man kicks a messy child.</interp>
       </picture>
    </lg>
->>>>>>> 6220d206c5f616140dcef87d8308d3a763b49202
 </root>
