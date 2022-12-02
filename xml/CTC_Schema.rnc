@@ -1,7 +1,8 @@
 start =
   element root {
     element Title { text },
-    element descrip { text },
+    element descrip { text }?,
+    (element heading {text} |
     element lg { num,
       (element l {num, mixed{ (person | place | animal | pub )* } }
       # ebb: You need to encode some mixed content inside <l> elements: How about references to people, animals, places, publications?
@@ -12,7 +13,7 @@ start =
              text
            }
          })+
-    }+
+    }+ )*
   }
   
   person = element person {text}

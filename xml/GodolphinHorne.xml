@@ -1,122 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
-    <title>Godolphin Horne,</title>
-    <descrip>Who was cursed with the Sin of Pride, and Became a Boot-Black.</descrip>
-    
-    
-    
-    <lg><picture url="../docs/illus/CTC-26.jpg.png">
-        <interp resp="KP">A man stands next to his shadow.</interp>
-    </picture>
-        <l><person>Godolphin Horne</person> was Nobly Born;</l>
-        <l>He held the Human Race in Scorn,</l>
-        <l>And <action>lived</action> with all his Sisters where</l>
-        <l>His father lived, in <location>Berkeley Square.</location></l>
-        <l>And oh! the Lad was Deathly <adject>Proud!</adject></l>
-        <l>He never <action>shook</action> your Hand or <action>Bowed,</action></l>
-        <l>But merely <action>smirked</action> and <action>nodded</action></l></lg>
-    
-    
-    <lg><picture url="../docs/illus/CT-27.jpg.png">
-        <interp resp="KP">A poor man shows respect to a wealthier man.</interp>
-    </picture>
-        <l>thus:</l>
-        <l>How perfectly <adject>ridiculous!</adject></l>
-        <l>Alas! That such Affected Tricks</l>
-        <l>Should flourish in a Child of Six!</l>
-        <l>(For such was Young Godolphin’s age).</l>
-    </lg>
-    <lg><l>Just then, the Court required a Page,</l>
-        <l>Whereat</l></lg>
-    
-    
-    <lg><picture url="../docs/illus/CTC-27.jpg.png">
-        <interp resp="KP">Distinguished man stands with scepter.</interp>
-    </picture>
-        <l>the Lord High <person>Chamberlain</person></l>
-        <l>(The Kindest and the Best of Men),</l>
-        <l>He went good-naturedly and</l></lg>
-    
-    
-    
-    <lg><picture url="../docs/illus/CTC-28.jpg.png">
-        <interp resp="KP">A man walks with a book.</interp>
-    </picture>
-        <l>took</l>
-        <l>A Perfectly Enormous <object>Book</object></l>
-        <l>Called People Qualified to Be</l>
-        <l>Attendant on His Majesty,</l>
-        <l>And <action>murmured,</action> as he <action>scanned</action> the list</l>
-        <l>(To see that no one should be missed),</l>
-        <l>“There’s</l> 
-        <picture url="../docs/illus/CTC-29.jpg.png">
-            <interp resp="KP">A man sleeping in bed.</interp>
-        </picture>
-    </lg>
-    
-    
-    
-    <lg><l><person>William Coutts</person> has got the Flue,
-    </l>
-        <picture url="../docs/illus/CTC-30.jpg.png">
-            <interp resp="KP">A man stands widely.</interp>
-        </picture>
-        
-        <l>And <person>Billy Higgs</person> would never do,</l>
-        
-        <l>And <person>Guy de Vere</person> is far too <adject>young,</adject></l>
-        <picture url="../docs/illus/CTC-31.jpg.png">
-            <interp resp="KP">A girl with a toy horse.</interp>
-        </picture>
-    </lg>
-    
-    
-    <lg><l>And ... wasn’t <person>D’Alton’s Father</person> hung?</l>
-        <l>And as for <person>Alexander Byng!</person>— ...</l>
-        <l>I think I know the kind of thing,</l>
-        <l>A Churchman, cleanly, <adject>nobly</adject> born,</l>
-        <picture url="../docs/illus/CTC-32.jpg.png">
-            <interp resp="KP">A man being hung.</interp>
-        </picture>
-        <l>Come</l></lg>
-    
-    <lg><l>let us say Godolphin Horne?”</l>
-        <l>But hardly had he said the word</l>
-        <l>When Murmurs of Dissent were heard.</l>
-        <l>The <person>King of Iceland’s Eldest Son</person></l>
-        <l>Said, “Thank you! I am taking none!”</l>
-        <l>The Aged <person>Duchess of Athlone</person></l>
-        <l><action>Remarked,</action> in her sub-acid tone,</l>
-        <l>“I doubt if He is what we need!”</l>
-        <l>With which the Bishops all agreed;</l>
-        <l>And even <person>Lady Mary Flood</person></l>
-        <l>(So Kind, and oh! so really good)</l>
-        <l>Said, “No! He wouldn’t do at all,</l>
-        <l>He’d make us feel a lot too <adject>small,”</adject></l>
-        <l>The Chamberlain said</l>,</lg>
-    
-    <lg><l>“ ... Well, well, well!</l>
-        <l>No doubt you’re right.... One cannot tell!”</l>
-        <l>He took his Gold and Diamond Pen</l>
-        <l>And</l>
-        <picture url="../docs/illus/CTC-33.jpg.png">
-            <interp resp="KP">A man signing papers.</interp>
-        </picture>
-    </lg>
-    
-    
-    <lg><l>Scratched Godolphin out again.</l>
-        <l>So now Godolphin is the Boy</l>
-        <l>Who blacks the Boots at the <location>Savoy.</location></l>
-        <picture url="../docs/illus/CTC-34.jpg.png">
-            <interp resp="KP">A shoe-shiner standing next to his shining box.</interp>
-        </picture>
-    </lg>
-    
-</root>
-=======
-Godolphin Horne,
+    <Title>Godolphin Horne,</Title>
+   
 <descrip>Who was cursed with the Sin of Pride, and Became a Boot-Black.</descrip>
 <lg num="1">
     <picture url="../docs/illus/CTC-26.jpg.png">
@@ -176,7 +62,7 @@ Godolphin Horne,
     <l num="2">And Billy Higgs would never do,</l>
     <l num="3">And Guy de Vere is far too young,</l>
     <picture url="../docs/illus/CTC-31.jpg.png">
-        <interp resp="KP">A girl with a toy <animal>horse</animal>.</interp>
+        <interp resp="KP">A girl with a toy horse.</interp>
     </picture>
 </lg>
 <lg num="7">
@@ -203,7 +89,7 @@ Godolphin Horne,
     <l num="11">(So Kind, and oh! so really good)</l>
     <l num="12">Said, “No! He wouldn’t do at all,</l>
     <l num="13">He’d make us feel a lot too small,”</l>
-    <l num="14">The Chamberlain said</l>,</lg>
+    <l num="14">The Chamberlain said,</l></lg>
 <lg num="9">
     <l num="1">“ ... Well, well, well!</l>
     <l num="2">No doubt you’re right.... One cannot tell!”</l>

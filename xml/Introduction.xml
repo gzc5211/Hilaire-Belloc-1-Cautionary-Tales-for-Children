@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+<Title>INTRODUCTION</Title>
 <lg num="1">
-   <l num="1">INTRODUCTION</l>
    <l num="2">Upon being asked by a <person>Reader</person> whether the verses contained in this <object>book</object> were true.</l>
    <l num="3"> And is it True? It is not True.</l>
    <l num="4">And if it were it wouldn’t do,</l>
@@ -16,6 +17,7 @@
    <l num="13">The nicest things you ever saw.</l>
    <l num="14"> H. B.</l>
    <picture url="../docs/illus/CTC-1.jpg.png">
-      <interp resp="kzp">A little <person>boy</person> stand up</interp>
+      <interp resp="kzp">A little boy stand up</interp>
    </picture>
 </lg>
+</root>
