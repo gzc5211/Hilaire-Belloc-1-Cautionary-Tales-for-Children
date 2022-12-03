@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+
+<Title>Henry King,</Title>
+<descrip>Who chewed bits of String, and was early cut off in Dreadful Agonies.</descrip>
+<lg num="1">
+<l num="1">The Chief Defect of <person>Henry King</person></l>
+<l num="2">Was</l>
+    <picture url="../docs/illus/CTC-10.jpg.png">
+        <interp resp="Wu">A man is chewing on the rope.</interp>
+    </picture>
+</lg>
+
+<lg num="2">
+<l num="1">chewing little bits of String.</l>
+<l num="2">At last he swallowed some which tied</l>
+<l num="3">Itself in ugly Knots inside.</l>
+    <picture url="../docs/illus/CTC-11.jpg.png">
+        <interp resp="Wu">Multiple men are walking.</interp>
+    </picture>
+</lg>
+
+<lg num="3">
+<l num="1"> <person>Physicians</person> of the Utmost Fame</l>
+<l num="2">Were called at once; but when they came</l>
+<l num="3">They answered,</l>
+    <picture url="../docs/illus/CTC-12.jpg.png">
+        <interp resp="Wu">Two men are looking at each other.</interp>
+    </picture>
+</lg>
+
+<lg num="4">
+<l num="1">as they took their Fees,</l>
+<l num="2">“There is no Cure for this Disease.</l>
+<l num="3"><person>Henry</person> will very soon be dead.”</l>
+<l num="4">His Parents stood about his Bed</l>
+<l num="5">Lamenting his Untimely Death,</l>
+<l num="6">When Henry, with his Latest Breath,</l>
+<l num="7">Cried—</l>
+<l num="8">“Oh, my Friends, be warned by me,</l>
+    <picture url="../docs/illus/CTC-13.jpg.png">
+        <interp resp="Wu">A man is sitting on the bed.</interp>
+    </picture>
+</lg>
+
+<lg num="5">
+<l num="1">That Breakfast, Dinner, Lunch and Tea</l>
+<l num="2">Are all the Human Frame requires ...”</l>
+<l num="3">With that the Wretched <person>Child</person> expires.</l>
+</lg>
+</root> 
+    
+    
+
