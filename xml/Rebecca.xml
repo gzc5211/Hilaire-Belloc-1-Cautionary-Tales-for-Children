@@ -5,7 +5,7 @@
    <descrip>Who slammed Doors for Fun and Perished Miserably.</descrip>
    <lg num="1">
       <l num="1"> A Trick that everyone abhors</l>
-      <l num="2">In <person>Little Girls</person> is slamming Doors.</l>
+      <l num="2">In <person>Little Girls</person> is <action>slamming</action> Doors.</l>
       <l num="3">A</l>
    </lg>
    <lg num="2">
@@ -29,7 +29,7 @@
       <l num="1">She would deliberately go</l>
    </lg>
    <lg num="6">
-      <l num="1">And Slam the door like</l>
+      <l num="1">And <action>Slam</action> the door like</l>
       <picture url="../docs/illus/CTC-60.jpg">
          <interp resp="Chen">A little girl try to close the door</interp>
       </picture>
@@ -52,10 +52,10 @@
    </lg>
    <lg num="10">
       <l num="1">It happened that a Marble Bust</l>
-      <l num="2">Of Abraham was standing just</l>
+      <l num="2">Of Abraham was <action>standing</action> just</l>
       <l num="3">Above the Door this little Lamb</l>
-      <l num="4">Had carefully prepared to Slam,</l>
-      <l num="5">And Down it came! It knocked her flat!</l>
+      <l num="4">Had carefully prepared to <action>Slam</action>,</l>
+      <l num="5">And Down it came! It <action>knocked</action> her flat!</l>
       <picture url="../docs/illus/CTC-62.jpg">
          <interp resp="Chen">A girl hanging</interp>
       </picture>
@@ -71,17 +71,17 @@
       <l num="2">And followed by a Sacred Song)</l>
       <l num="3">Mentioned her Virtues, it is true,</l>
       <l num="4">But dwelt upon her Vices too,</l>
-      <l num="5">And showed the Dreadful End of One</l>
-      <l num="6">Who goes and slams the door for Fun.</l>
+      <l num="5">And <action>showed</action> the Dreadful End of One</l>
+      <l num="6">Who goes and <action>slams</action> the door for Fun.</l>
    </lg>
    <lg num="13">
-      <l num="1">The children who were brought to hear</l>
+      <l num="1">The children who were <action>brought</action> to hear</l>
       <l num="2">The awful Tale from far and near</l>
       <l num="3">Were much impressed,</l>
    </lg>
    <lg num="14">
       <l num="1">and inly swore</l>
-      <l num="2">They never more would slam the Door.</l>
+      <l num="2">They never more would <action>slam</action> the Door.</l>
       <l num="3">—As often they had done before.</l>
       <picture url="../docs/illus/CTC-64.jpg">
          <interp resp="Chen">group of people praying</interp>
