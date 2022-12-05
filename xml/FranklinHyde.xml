@@ -7,36 +7,36 @@
       <picture url="../docs/illus/CTC-22.jpg.png">
          <interp resp="KP">A man looks disappointed at a kid dripping in mud.</interp>
       </picture>
-      <l num="1">His Uncle came on Franklin Hyde</l>
-      <l num="2">Carousing in the Dirt.</l>
-      <l num="3">He Shook him hard from Side to Side</l>
+      <l num="1">His <person>Uncle</person> came on <person>Franklin Hyde</person></l>
+      <l num="2"><action>Carousing</action> in the Dirt.</l>
+      <l num="3">He <action>Shook</action> him hard from Side to Side</l>
       <l num="4">And</l>
    </lg>
    <lg num="2">
       <picture url="../docs/illus/CTC-23.jpg.png">
          <interp resp="KP">A man hitting a child.</interp>
       </picture>
-      <l num="1">Hit him till it Hurt,</l>
-      <l num="2">Exclaiming, with a Final Thud, “Take</l>
+      <l num="1"><action>Hit</action> him till it Hurt,</l>
+      <l num="2"><action>Exclaiming,</action> with a Final Thud, “Take</l>
    </lg>
    <lg num="3">
       <l num="1">that! Abandoned Boy!</l>
       <picture url="../docs/illus/CTC-24.jpg.png">
          <interp resp="KP">Man hits messy kid.</interp>
       </picture>
-      <l num="2">For Playing with Disgusting Mud</l>
+      <l num="2">For <action>Playing</action> with Disgusting Mud</l>
       <l num="3">As though it were a Toy!”</l>
    </lg>
    <heading>MORAL</heading>
    <lg num="4">
-      <l num="1">From Franklin Hyde’s adventure, learn</l>
-      <l num="2">To pass your Leisure Time</l>
+      <l num="1">From Franklin Hyde’s adventure, <action>learn</action></l>
+      <l num="2">To <action>pass</action> your Leisure Time</l>
       <l num="3">In Cleanly Merriment, and turn</l>
       <l num="4">From Mud and Ooze and Slime</l>
       <l num="5">And every form of Nastiness—</l>
       <l num="6">But, on the other Hand,</l>
       <l num="7">Children in ordinary Dress</l>
-      <l num="8">May always play with Sand.</l>
+      <l num="8">May always <action>play</action> with Sand.</l>
       <picture url="../docs/illus/CTC-25.jpg.png">
          <interp resp="KP">A man kicks a messy child.</interp>
       </picture>
