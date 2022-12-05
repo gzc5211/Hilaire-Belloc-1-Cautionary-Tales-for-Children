@@ -8,13 +8,13 @@
     <picture url="../docs/illus/CTC-26.jpg.png">
         <interp resp="KP">A man stands next to his shadow.</interp>
     </picture>
-    <l num="1">Godolphin Horne was Nobly Born;</l>
-    <l num="2">He held the Human Race in Scorn,</l>
-    <l num="3">And lived with all his Sisters where</l>
-    <l num="4">His father lived, in <place>Berkeley Square</place>.</l>
+    <l num="1"><person>Godolphin Horne</person> was Nobly Born;</l>
+    <l num="2">He <action>held</action> the Human Race in Scorn,</l>
+    <l num="3">And <action>lived</action> with all his <person>Sisters</person> where</l>
+    <l num="4">His <person>father</person> <action>lived,</action> in <place>Berkeley Square</place>.</l>
     <l num="5">And oh! the Lad was Deathly Proud!</l>
-    <l num="6">He never shook your Hand or Bowed,</l>
-    <l num="7">But merely smirked and nodded</l>
+    <l num="6">He never <action>shook your Hand</action> or <action>Bowed,</action></l>
+    <l num="7">But merely <action>smirked</action> and <action>nodded</action></l>
 </lg>
 <lg num="2">
     <picture url="../docs/illus/CT-27.jpg.png">
@@ -23,7 +23,7 @@
     <l num="1">thus:</l>
     <l num="2">How perfectly ridiculous!</l>
     <l num="3">Alas! That such Affected Tricks</l>
-    <l num="4">Should flourish in a Child of Six!</l>
+    <l num="4">Should <action>flourish</action> in a Child of Six!</l>
     <l num="5">(For such was Young Godolphin’s age).</l>
 </lg>
 <lg num="3">
@@ -34,7 +34,7 @@
     <picture url="../docs/illus/CTC-27.jpg.png">
         <interp resp="KP">Distinguished man stands with scepter.</interp>
     </picture>
-    <l num="1">the Lord High Chamberlain</l>
+    <l num="1">the <person>Lord High Chamberlain</person></l>
     <l num="2">(The Kindest and the Best of Men),</l>
     <l num="3">He went good-naturedly and</l>
 </lg>
@@ -44,9 +44,9 @@
     </picture>
     <l num="1">took</l>
     <l num="2">A Perfectly Enormous Book</l>
-    <l num="3">Called People Qualified to Be</l>
-    <l num="4">Attendant on His Majesty,</l>
-    <l num="5">And murmured, as he scanned the list</l>
+    <l num="3"><action>Called</action> People Qualified to Be</l>
+    <l num="4">Attendant on <person>His Majesty</person>,</l>
+    <l num="5">And <action>murmured</action>, as he <action>scanned</action> the list</l>
     <l num="6">(To see that no one should be missed),</l>
     <l num="7">“There’s</l>
     <picture url="../docs/illus/CTC-29.jpg.png">
@@ -59,16 +59,16 @@
     <picture url="../docs/illus/CTC-30.jpg.png">
         <interp resp="KP">A man stands widely.</interp>
     </picture>
-    <l num="2">And Billy Higgs would never do,</l>
-    <l num="3">And Guy de Vere is far too young,</l>
+    <l num="2">And <person>Billy Higgs</person> would never do,</l>
+    <l num="3">And <person>Guy de Vere</person> is far too young,</l>
     <picture url="../docs/illus/CTC-31.jpg.png">
         <interp resp="KP">A girl with a toy horse.</interp>
     </picture>
 </lg>
 <lg num="7">
-    <l num="1">And ... wasn’t <person>D’Alton</person>’s Father hung?</l>
-    <l num="2">And as for Alexander Byng!— ...</l>
-    <l num="3">I think I know the kind of thing,</l>
+    <l num="1">And ... wasn’t <person>D’Alton's Father</person> <action>hung?</action></l>
+    <l num="2">And as for <person>Alexander Byng!</person>— ...</l>
+    <l num="3">I <action>think</action> I know the kind of thing,</l>
     <l num="4">A Churchman, cleanly, nobly born,</l>
     <picture url="../docs/illus/CTC-32.jpg.png">
         <interp resp="KP">A man being hung.</interp>
@@ -76,24 +76,24 @@
     <l num="5">Come</l>
 </lg>
 <lg num="8">
-    <l num="1">let us say Godolphin Horne?”</l>
-    <l num="2">But hardly had he said the word</l>
+    <l num="1">let us say <person>Godolphin Horne?”</person></l>
+    <l num="2">But hardly had he <action>said</action> the word</l>
     <l num="3">When Murmurs of Dissent were heard.</l>
-    <l num="4">The King of Iceland’s Eldest Son</l>
-    <l num="5">Said, “Thank you! I am taking none!”</l>
-    <l num="6">The Aged Duchess of Athlone</l>
-    <l num="7">Remarked, in her sub-acid tone,</l>
+    <l num="4"><person>The King of Iceland’s Eldest Son</person></l>
+    <l num="5">Said, “Thank you! I am <action>taking</action> none!”</l>
+    <l num="6">The Aged <person>Duchess of Athlone</person></l>
+    <l num="7"><action>Remarked,</action> in her sub-acid tone,</l>
     <l num="8">“I doubt if He is what we need!”</l>
-    <l num="9">With which the Bishops all agreed;</l>
-    <l num="10">And even Lady <person>Mary</person> Flood</l>
+    <l num="9">With which the <person>Bishops</person> all agreed;</l>
+    <l num="10">And even <person>Lady Mary Flood</person></l>
     <l num="11">(So Kind, and oh! so really good)</l>
-    <l num="12">Said, “No! He wouldn’t do at all,</l>
-    <l num="13">He’d make us feel a lot too small,”</l>
-    <l num="14">The Chamberlain said,</l></lg>
+    <l num="12"><action>Said,</action> “No! He wouldn’t do at all,</l>
+    <l num="13">He’d make us <action>feel</action> a lot too small,”</l>
+    <l num="14"><person>The Chamberlain</person> said,</l></lg>
 <lg num="9">
     <l num="1">“ ... Well, well, well!</l>
     <l num="2">No doubt you’re right.... One cannot tell!”</l>
-    <l num="3">He took his Gold and Diamond Pen</l>
+    <l num="3">He <action>took</action> his Gold and Diamond Pen</l>
     <l num="4">And</l>
     <picture url="../docs/illus/CTC-33.jpg.png">
         <interp resp="KP">A man signing papers.</interp>
@@ -102,7 +102,7 @@
 <lg num="10">
     <l num="1">Scratched Godolphin out again.</l>
     <l num="2">So now Godolphin is the Boy</l>
-    <l num="3">Who blacks the Boots at the Savoy.</l>
+    <l num="3">Who <action>blacks</action> the Boots at the <place>Savoy.</place></l>
     <picture url="../docs/illus/CTC-34.jpg.png">
         <interp resp="KP">A shoe-shiner standing next to his shining box.</interp>
     </picture>
