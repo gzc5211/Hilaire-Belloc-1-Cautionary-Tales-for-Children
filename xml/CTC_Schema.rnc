@@ -4,7 +4,7 @@ start =
     element descrip { text }?,
     (element heading {text} |
     element lg { num,
-      (element l {num, mixed{ (person | place | animal | pub )* } }
+      (element l {num, mixed{ (person | place | animal | pub |  food | action)* } }
       # ebb: You need to encode some mixed content inside <l> elements: How about references to people, animals, places, publications?
        | element picture {
            attribute url { text },
@@ -20,4 +20,6 @@ start =
   place = element place {text}
   animal = element animal { text}
   pub = element pub { text}
+  food = element food  { text}
+  action = element action {text}
   num = attribute num {xsd:integer}
