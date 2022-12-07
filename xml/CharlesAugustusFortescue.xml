@@ -1,89 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
-   <title>Charles Augustus Fortescue,</title>
+   <Title>Charles Augustus Fortescue,</Title>
    <descrip>Who always Did what was Right, and so accumulated an Immense Fortune.
 </descrip>
-
-
-<lg><l>The <adject>nicest</adject> child I ever knew</l>
-<l>Was <person>Charles Augustus Fortescue.</person></l>
-<l>He never lost his <clothing>cap,</clothing> or tore</l>
-<l>His <clothing>stockings</clothing> or his pinafore:</l>
-<l>In <action>eating</action> <food>Bread</food> he made no <food>Crumbs,</food></l>
-<l>He was extremely fond of sums,</l>
-    <picture url="../docs/illus/CTC-79.jpg.png">
-        <interp resp="KP">A child talks to his father while his father is reading a newspaper.</interp>
-    </picture>
-</lg>
-
-
-<lg><l>To which, however, he preferred</l>
-<l>The Parsing of a Latin Word—</l>
-<l>He sought, when it was in his power,</l>
-<l>For information twice an hour,</l>
-<l>And as for <action>finding</action> <food>Mutton-Fat</food></l>
-<l>Unappetising, far from that!</l>
-<l>He often, at his Father’s Board,</l>
-<l>Would <action>beg</action> them, of his own accord,</l>
-    <picture url="../docs/illus/CTC-80.jpg.png">
-        <interp resp="KP">A family eating dinner at the table.</interp>
-    </picture>
-</lg>
-
-
-<lg><l>To give him, if they did not mind,</l>
-<l>The Greasiest Morsels they could find—</l>
-<l>His Later Years did not belie</l>
-<l>The Promise of his Infancy.</l>
-<l>In Public Life he always <action>tried</action></l>
-<l>To take a judgment Broad and Wide;</l>
-    <picture url="../docs/illus/CTC-81.jpg.png">
-        <interp resp="KP">A younger man telling an older man to sit on a stool.</interp>
-    </picture>
-</lg>
-
-
-<lg><l>In Private, none was more than he</l>
-<l>Renowned for quiet courtesy.</l>
-<l>He <action>rose</action> at once in his Career,</l>
-<l>And long before his Fortieth Year</l>
-<l>Had <action>wedded</action></l>
-<l>Fifi,</l>
-</lg>
-
-
-
-
-    <lg><picture url="../docs/illus/CTC-82.jpg.png">
-        <interp resp="KP">A bride and groom at their wedding.</interp>
-    </picture>
-    <l>Only Child</l>
-<l>Of Bunyan, First Lord Aberfylde.</l>
-<l>He thus became immensely Rich,</l>
-<l>And <action>built</action> the Splendid Mansion which</l>
-<l>Is called</l>
-        <picture url="../docs/illus/CTC-83.jpg.png">
-            <interp resp="KP">A mansion.</interp>
-        </picture>
-    </lg>
-
-
-
-<lg><l>the cedars muswell hill</l>
-<l>Where he resides in Affluence still</l>
-<l>To show what Everybody might</l>
-<l>Become by</l></lg>
-
-<lastLine>SIMPLY DOING RIGHT.</lastLine>
-</root>
-=======
    <lg num="1">
       <l num="1">The nicest child I ever knew</l>
-      <l num="2">Was Charles Augustus Fortescue.</l>
+      <l num="2">Was <person>Charles Augustus Fortescue.</person></l>
       <l num="3">He never lost his cap, or tore</l>
       <l num="4">His stockings or his pinafore:</l>
-      <l num="5">In eating Bread he made no Crumbs,</l>
+      <l num="5">In <action>eating</action> <food>Bread</food> he made no <food>Crumbs,</food></l>
       <l num="6">He was extremely fond of sums,</l>
       <picture url="../docs/illus/CTC-79.jpg.png">
          <interp resp="KP">A child talks to his father while his father is reading a newspaper.</interp>
@@ -92,12 +18,12 @@
    <lg num="2">
       <l num="1">To which, however, he preferred</l>
       <l num="2">The Parsing of a Latin Word—</l>
-      <l num="3">He sought, when it was in his power,</l>
+      <l num="3">He <action>sought,</action> when it was in his power,</l>
       <l num="4">For information twice an hour,</l>
-      <l num="5">And as for finding Mutton-Fat</l>
+      <l num="5">And as for <action>finding</action> <food>Mutton-Fat</food></l>
       <l num="6">Unappetising, far from that!</l>
       <l num="7">He often, at his Father’s Board,</l>
-      <l num="8">Would beg them, of his own accord,</l>
+      <l num="8">Would <action>beg</action> them, of his own accord,</l>
       <picture url="../docs/illus/CTC-80.jpg.png">
          <interp resp="KP">A family eating dinner at the table.</interp>
       </picture>
@@ -107,7 +33,7 @@
       <l num="2">The Greasiest Morsels they could find—</l>
       <l num="3">His Later Years did not belie</l>
       <l num="4">The Promise of his Infancy.</l>
-      <l num="5">In Public Life he always tried</l>
+      <l num="5">In Public Life he always <action>tried</action></l>
       <l num="6">To take a judgment Broad and Wide;</l>
       <picture url="../docs/illus/CTC-81.jpg.png">
          <interp resp="KP">A younger man telling an older man to sit on a stool.</interp>
@@ -116,10 +42,10 @@
    <lg num="4">
       <l num="1">In Private, none was more than he</l>
       <l num="2">Renowned for quiet courtesy.</l>
-      <l num="3">He rose at once in his Career,</l>
+      <l num="3">He <action>rose</action> at once in his Career,</l>
       <l num="4">And long before his Fortieth Year</l>
-      <l num="5">Had wedded</l>
-      <l num="6">Fifi,</l>
+      <l num="5">Had <action>wedded</action></l>
+      <l num="6"><person>Fifi,</person></l>
    </lg>
    <lg num="5">
       <picture url="../docs/illus/CTC-82.jpg.png">
@@ -128,7 +54,7 @@
       <l num="1">Only Child</l>
       <l num="2">Of Bunyan, First Lord Aberfylde.</l>
       <l num="3">He thus became immensely Rich,</l>
-      <l num="4">And built the Splendid Mansion which</l>
+      <l num="4">And <action>built</action> the Splendid Mansion which</l>
       <l num="5">Is called</l>
       <picture url="../docs/illus/CTC-83.jpg.png">
          <interp resp="KP">A mansion.</interp>
@@ -136,9 +62,10 @@
    </lg>
    <lg num="6">
       <l num="1">the cedars muswell hill</l>
-      <l num="2">Where he resides in Affluence still</l>
+      <l num="2">Where he <action>resides</action> in Affluence still</l>
       <l num="3">To show what Everybody might</l>
       <l num="4">Become by</l>
+     <l num="5">SIMPLY DOING RIGHT.</l>
    </lg>
-   <lastLine>SIMPLY DOING RIGHT.</lastLine>
+   
 </root>

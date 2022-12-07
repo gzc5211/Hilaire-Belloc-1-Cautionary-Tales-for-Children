@@ -15,38 +15,38 @@
       <l num="2"> Much rather than to rouse Alarm</l>
       <l num="3"> In any <person>English Boy.</person></l>
       <picture url="../docs/illus/CTC-41.jpg">
-         <interp resp="sqm">a <person>man</person> with his hand on a <person>childs</person> head</interp>
+         <interp resp="sqm">a man with his hand on a childs head</interp>
       </picture>
    </lg>
    <lg num="3">
       <l num="1">“What would your <person>Great Grandfather</person> who </l>
       <l num="2">Was Aide-de-Camp to <person>General Brue,</person></l>
       <picture url="../docs/illus/CTC-42.jpg">
-         <interp resp="sqm">a <career>general</career> on a <animal>horse</animal></interp>
+         <interp resp="sqm">a general on a horse</interp>
       </picture>
    </lg>
    <lg num="4">
       <l num="1">And lost a leg at <place>Waterloo,</place> </l>
       <picture url="../docs/illus/CTC-43.jpg">
-         <interp resp="sqm">a <person>man</person> hopping on one leg</interp>
+         <interp resp="sqm">a man hopping on one leg</interp>
       </picture>
    </lg>
    <lg num="5">
       <l num="1">And <place>Quatre-Bras</place> and</l>
       <picture url="../docs/illus/CTC-44.jpg">
-         <interp resp="sqm">a <person>man</person> hopping on one leg again</interp>
+         <interp resp="sqm">a man hopping on one leg again</interp>
       </picture>
    </lg>
    <lg num="6">
       <l num="1"><place>Ligny</place> too!</l>
       <picture url="../docs/illus/CTC-45.jpg">
-         <interp resp="sqm">a <person>man</person> hopping on one leg and falling</interp>
+         <interp resp="sqm">a man hopping on one leg and falling</interp>
       </picture>
    </lg>
    <lg num="7">
       <l num="1">And died at <place>Trafalgar!</place>—</l>
       <picture url="../docs/illus/CTC-46.jpg">
-         <interp resp="sqm">a <person>man</person> being shot on a bridge</interp>
+         <interp resp="sqm">a man being shot on a bridge</interp>
       </picture>
    </lg>
    <lg num="8">
@@ -57,7 +57,7 @@
       <l num="5">But do not fret about it! Come!</l>
       <l num="6">We’ll off to Town And purchase some!”</l>
       <picture url="../docs/illus/CTC-47.jpg">
-         <interp resp="sqm">a <person>man</person> and a <person>young boy</person> with a line of cars behind them</interp>
+         <interp resp="sqm">a man and a young boy with a line of cars behind them</interp>
       </picture>
    </lg>
 </root>

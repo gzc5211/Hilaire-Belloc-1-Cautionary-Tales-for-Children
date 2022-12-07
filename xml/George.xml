@@ -13,7 +13,7 @@
    <lg num="2">
       <l num="1">That <person>George</person> had been as good as Gold,</l>
       <l num="2">She Promised in the Afternoon</l>
-      <l num="3">To buy him an Immense BALLOON.</l>
+      <l num="3">To <action>buy</action> him an Immense BALLOON.</l>
       <picture url="../docs/illus/CTC-66.jpg">
          <interp resp="Chen">One man selling balloon to another.</interp>
       </picture>
@@ -30,16 +30,16 @@
    </lg>
    <lg num="4">
       <l num="1">with a loud report!</l>
-      <l num="2">The Lights went out! The Windows broke!</l>
+      <l num="2">The Lights went out! The Windows <action>broke</action>!</l>
       <l num="3">The Room was filled with reeking smoke.</l>
       <l num="4">And in the darkness shrieks and yells</l>
       <l num="5">Were mingled with Electric Bells,</l>
       <l num="6">And falling masonry and groans,</l>
-      <l num="7">And crunching, as of broken bones,</l>
+      <l num="7">And <action>crunching</action>, as of broken bones,</l>
       <l num="8">And dreadful shrieks, when, worst of all,</l>
       <l num="9">The House itself began to fall!</l>
-      <l num="10">It tottered, shuddering to and fro,</l>
-      <l num="11">Then crashed into the street below—</l>
+      <l num="10">It <action>tottered</action>, <action>shuddering</action> to and fro,</l>
+      <l num="11">Then <action>crashed</action> into the street below—</l>
       <l num="12">Which happened to be Savile Row.</l>
    </lg>
    <lg num="5">
@@ -77,7 +77,7 @@
       </picture>
    </lg>
    <lg num="11">
-      <l num="1">The man that cleaned the Billiard-Room,</l>
+      <l num="1">The man that <action>cleaned</action> the Billiard-Room,</l>
       <picture url="../docs/illus/CTC-73.jpg">
          <interp resp="Chen">Cleaning man.</interp>
       </picture>
