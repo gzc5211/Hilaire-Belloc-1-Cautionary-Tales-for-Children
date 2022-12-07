@@ -117,14 +117,14 @@
     </xsl:template>
     <xsl:template match="picture">
        <figure>
-           <img class="Picture" src="{@url ! substring-after(., 'docs/')}"/>
+           <img class="picture" src="{@url ! substring-after(., 'docs/')}"/>
            <figcaption>
                <xsl:apply-templates select="interp"/>
            </figcaption>
        </figure>
            
     </xsl:template>
-    <xsl:template match="person | place | animal | a ">
+    <xsl:template match="person | place | animal | action ">
         
         <span class="{name()}">
             <xsl:apply-templates/>
@@ -132,12 +132,7 @@
         
     </xsl:template>
     
-    <xsl:template match="x">
-            <span class="x" title="{@rw}">
-                <xsl:apply-templates/>
-        </span>
-    </xsl:template>
-
+  
 
 
 

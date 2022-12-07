@@ -5,11 +5,12 @@
     exclude-result-prefixes="xs math"
     version="3.0">
     <xsl:mode on-no-match="shallow-copy"/>
-    
-    <xsl:variable name="collection" as="document-node()+" select="collection('../xml/?select=*.xml')"/>
+    <xsl:output method="xhtml" html-version="5" omit-xml-declaration="yes" include-content-type="no"
+        indent="yes"/>
+    <xsl:variable name="CTC-coll" as="document-node()+" select="collection('../xml/?select=*.xml')"/>
     
     <xsl:template match="/">
-        <xsl:for-each select="$collection">
+        <xsl:for-each select="CTC-coll">
             <xsl:variable name="currentFile" as="xs:string" select="base-uri() ! tokenize(., '/')[last()]"/>
             <xsl:result-document method="xml" indent="yes" href="../output/{$currentFile}">
                 
@@ -37,6 +38,7 @@
         <l num="{count (preceding-sibling::l)+1}">
     <xsl:apply-templates/>
         </l>
+        
     </xsl:template>
     
     
