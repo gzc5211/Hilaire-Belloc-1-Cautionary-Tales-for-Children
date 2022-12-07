@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
-   <descrip>Lord Lundy,
+   <Title>Lord Lundy</Title>
+   <descrip>Lord Lundy (FIRST CANTO),
         Who was too Freely Moved to Tears, and thereby ruined his Political Career. </descrip>
    <lg num="1">
       <l num="1"><person>Lord Lundy</person> from his earliest years</l>
       <l num="2"> Was far too freely moved to Tears.</l>
       <l num="3">For instance if his <person>Mother</person> said,</l>
-      <l num="4">“<person>Lundy!</person> It’s time to go to Bed!”</l>
+      <l num="4">“Lundy! It’s time to go to Bed!”</l>
       <l num="5">He bellowed like a <animal>Little Turk</animal>.</l>
       <picture url="../docs/illus/CTC-48.jpg">
-         <interp resp="sqm">a <person>woman</person> holding a crying <person>baby</person></interp>
+         <interp resp="sqm">a woman holding a crying baby</interp>
       </picture>
    </lg>
    <lg num="2">
       <l num="1">Or if his father <person>Lord Dunquerque</person></l>
       <l num="2"> Said “Hi!” in a Commanding Tone,</l>
       <l num="3">“Hi, <person>Lundy</person>! Leave the <animal>Cat</animal> alone!”</l>
-      <l num="4"><person>Lord Lundy</person>, letting go its tail,</l>
+      <l num="4">Lord Lundy, letting go its tail,</l>
       <l num="5">Would raise so terrible a wail</l>
       <picture url="../docs/illus/CTC-49.jpg">
-         <interp resp="sqm">a <person>man</person> yelling</interp>
+         <interp resp="sqm">a man yelling</interp>
       </picture>
    </lg>
    <lg num="3">
@@ -29,7 +30,7 @@
       <l num="3">“When I, Sir! was a <person>little Boy</person>,</l>
       <l num="4">An <animal>Animal</animal> was not a Toy!”</l>
       <picture url="../docs/illus/CTC-50.jpg">
-         <interp resp="sqm">a tall <person>man</person> scolding a <person>kid</person></interp>
+         <interp resp="sqm">a tall man scolding a kid</interp>
       </picture>
    </lg>
    <lg num="4">
@@ -39,7 +40,7 @@
       <l num="4"> His <person>father’s Elder Sister</person>, who</l>
       <l num="5">Was married to a <person>Parvenoo</person>,</l>
       <picture url="../docs/illus/CTC-51.jpg">
-         <interp resp="sqm">a <person>man</person> and a <person>man</person> standing next to each other</interp>
+         <interp resp="sqm">a man and a man standing next to each other</interp>
       </picture>
    </lg>
    <lg num="5">
@@ -57,20 +58,20 @@
       <l num="12">To give him that for which to cry!”</l>
       <l num="13">(An empty wish, alas! for she Was Blind and nearly ninety-three).</l>
       <picture url="../docs/illus/CTC-52.jpg">
-         <interp resp="sqm">an old <person>woman</person> sitting on a throne</interp>
+         <interp resp="sqm">an old woman sitting on a throne</interp>
       </picture>
    </lg>
    <lg num="6">
-      <l num="1"> The Dear Old <career>Butler</career> thought—but there!</l>\
+      <l num="1"> The Dear Old <career>Butler</career> thought—but there!</l>
         <l num="2"> I really neither know nor care</l>
-      <l num="3"> For what the Dear Old <career>Butler</career> thought!</l>
-      <l num="4"> In my opinion, <career>Butlers</career> ought</l>
+      <l num="3"> For what the Dear Old Butler thought!</l>
+      <l num="4"> In my opinion, Butlers ought</l>
       <l num="5"> To know their place, and not to play</l>
       <l num="6">The Old Retainer night and day</l>
       <l num="7"> I’m getting tired and so are you,</l>
       <l num="8"> Let’s cut the Poem into two!</l>
       <picture url="../docs/illus/CTC-53.jpg">
-         <interp resp="sqm">a <career>butler</career> standing tall</interp>
+         <interp resp="sqm">a butler standing tall</interp>
       </picture>
    </lg>
 </root>
