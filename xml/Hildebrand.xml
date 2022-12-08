@@ -5,7 +5,7 @@
    <descrip>Hildebrand, Who was frightened by a Passing Motor, and was brought to Reason. </descrip>
    <lg num="1">
       <l num="1">“Oh, Murder! What was that, <person>Papa!</person>”</l>
-      <l num="2"> “My child, It was a <vehicle>Motor-Car,</vehicle></l>
+      <l num="2"> “My child, It was a Motor-Car,</l>
       <l num="3">A Most Ingenious Toy!</l>
       <picture url="../docs/illus/CTC-40.jpg">
          <interp resp="sqm">a car speeding down the road</interp>
@@ -45,16 +45,16 @@
       </picture>
    </lg>
    <lg num="7">
-      <l num="1">And died at <place>Trafalgar!</place>—</l>
+      <l num="1">And <action>died</action> at <place>Trafalgar!</place>—</l>
       <picture url="../docs/illus/CTC-46.jpg">
          <interp resp="sqm">a man being shot on a bridge</interp>
       </picture>
    </lg>
    <lg num="8">
-      <l num="1"> What would he have remarked to hear</l>
-      <l num="2">His Young Descendant shriek with fear,</l>
+      <l num="1"> What would he have <action>remarked</action> to hear</l>
+      <l num="2">His Young Descendant <action>shriek</action> with fear,</l>
       <l num="3">Because he happened to be near</l>
-      <l num="4">A Harmless <vehicle>Motor-Car!</vehicle></l>
+      <l num="4">A Harmless Motor-Car!</l>
       <l num="5">But do not fret about it! Come!</l>
       <l num="6">We’ll off to Town And purchase some!”</l>
       <picture url="../docs/illus/CTC-47.jpg">
