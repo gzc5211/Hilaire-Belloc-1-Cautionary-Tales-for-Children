@@ -10,7 +10,7 @@
       <l num="3">For instance if his <person>Mother</person> said,</l>
       <l num="4">“Lundy! It’s time to go to Bed!”</l>
       <l num="5">He <action>bellowed</action> like a <animal>Little Turk</animal>.</l>
-      <picture url="../docs/illus/CTC-48.jpg">
+      <picture url="../docs/illus/CTC-48.jpg.png">
          <interp resp="sqm">a woman holding a crying baby</interp>
       </picture>
    </lg>
@@ -20,7 +20,7 @@
       <l num="3">“Hi, <person>Lundy</person>! Leave the <animal>Cat</animal> alone!”</l>
       <l num="4">Lord Lundy, letting go its tail,</l>
       <l num="5">Would raise so terrible a wail</l>
-      <picture url="../docs/illus/CTC-49.jpg">
+      <picture url="../docs/illus/CTC-49.jpg.png">
          <interp resp="sqm">a man yelling</interp>
       </picture>
    </lg>
@@ -29,7 +29,7 @@
       <l num="2">To utter the severe rebuke:</l>
       <l num="3">“When I, Sir! was a <person>little Boy</person>,</l>
       <l num="4">An <animal>Animal</animal> was not a Toy!”</l>
-      <picture url="../docs/illus/CTC-50.jpg">
+      <picture url="../docs/illus/CTC-50.jpg.png">
          <interp resp="sqm">a tall man scolding a kid</interp>
       </picture>
    </lg>
@@ -39,7 +39,7 @@
       <l num="3">An <animal>Animal</animal> was not a Toy!”</l>
       <l num="4"> His <person>father’s Elder Sister</person>, who</l>
       <l num="5">Was married to a <person>Parvenoo</person>,</l>
-      <picture url="../docs/illus/CTC-51.jpg">
+      <picture url="../docs/illus/CTC-51.jpg.png">
          <interp resp="sqm">a man and a man standing next to each other</interp>
       </picture>
    </lg>
@@ -57,7 +57,7 @@
       <l num="11">Said “Oh! that I were Brisk and Spry</l>
       <l num="12">To give him that for which to <action>cry!”</action></l>
       <l num="13">(An empty wish, alas! for she Was Blind and nearly ninety-three).</l>
-      <picture url="../docs/illus/CTC-52.jpg">
+      <picture url="../docs/illus/CTC-52.jpg.png">
          <interp resp="sqm">an old woman sitting on a throne</interp>
       </picture>
    </lg>
@@ -70,7 +70,7 @@
       <l num="6">The Old Retainer night and day</l>
       <l num="7"> I’m getting tired and so are you,</l>
       <l num="8"> Let’s cut the Poem into two!</l>
-      <picture url="../docs/illus/CTC-53.jpg">
+      <picture url="../docs/illus/CTC-53.jpg.png">
          <interp resp="sqm">a butler standing tall</interp>
       </picture>
    </lg>
