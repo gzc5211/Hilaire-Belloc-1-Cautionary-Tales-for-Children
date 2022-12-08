@@ -10,13 +10,13 @@
    </lg>
    <lg num="2">
       <l num="1"><person>Wealthy Banker’s</person></l>
-      <picture url="../docs/illus/CTC-58.jpg">
+      <picture url="../docs/illus/CTC-58.jpg.png">
          <interp resp="Chen">A man holding a head and a arutch</interp>
       </picture>
    </lg>
    <lg num="3">
       <l num="1"><person>Little Daughter</person></l>
-      <picture url="../docs/illus/CTC-59.jpg">
+      <picture url="../docs/illus/CTC-59.jpg.png">
          <interp resp="Chen">A little girl</interp>
       </picture>
    </lg>
@@ -30,7 +30,7 @@
    </lg>
    <lg num="6">
       <l num="1">And <action>Slam</action> the door like</l>
-      <picture url="../docs/illus/CTC-60.jpg">
+      <picture url="../docs/illus/CTC-60.jpg.png">
          <interp resp="Chen">A little girl try to close the door</interp>
       </picture>
       <l num="2">Billy-Ho!</l>
@@ -43,7 +43,7 @@
    </lg>
    <lg num="9">
       <l num="1">Uncle <person>Jacob</person> start.</l>
-      <picture url="../docs/illus/CTC-61.jpg">
+      <picture url="../docs/illus/CTC-61.jpg.png">
          <interp resp="Chen">A man droping something</interp>
       </picture>
       <l num="2">She was not really bad at heart,</l>
@@ -56,13 +56,13 @@
       <l num="3">Above the Door this little Lamb</l>
       <l num="4">Had carefully prepared to <action>Slam</action>,</l>
       <l num="5">And Down it came! It <action>knocked</action> her flat!</l>
-      <picture url="../docs/illus/CTC-62.jpg">
+      <picture url="../docs/illus/CTC-62.jpg.png">
          <interp resp="Chen">A girl hanging</interp>
       </picture>
    </lg>
    <lg num="11">
       <l num="1">It laid her out! She looked like that.</l>
-      <picture url="../docs/illus/CTC-63.jpg">
+      <picture url="../docs/illus/CTC-63.jpg.png">
          <interp resp="Chen">a man holding something</interp>
       </picture>
    </lg>
@@ -83,7 +83,7 @@
       <l num="1">and inly swore</l>
       <l num="2">They never more would <action>slam</action> the Door.</l>
       <l num="3">—As often they had done before.</l>
-      <picture url="../docs/illus/CTC-64.jpg">
+      <picture url="../docs/illus/CTC-64.jpg.png">
          <interp resp="Chen">group of people praying</interp>
       </picture>
    </lg>

@@ -5,9 +5,9 @@
    <descrip>Hildebrand, Who was frightened by a Passing Motor, and was brought to Reason. </descrip>
    <lg num="1">
       <l num="1">“Oh, Murder! What was that, <person>Papa!</person>”</l>
-      <l num="2"> “My child, It was a <vehicle>Motor-Car,</vehicle></l>
+      <l num="2"> “My child, It was a Motor-Car,</l>
       <l num="3">A Most Ingenious Toy!</l>
-      <picture url="../docs/illus/CTC-40.jpg">
+      <picture url="../docs/illus/CTC-40.jpg.png">
          <interp resp="sqm">a car speeding down the road</interp>
       </picture>
    </lg>
@@ -15,49 +15,49 @@
       <l num="1">Designed to Captivate and Charm </l>
       <l num="2"> Much rather than to rouse Alarm</l>
       <l num="3"> In any <person>English Boy.</person></l>
-      <picture url="../docs/illus/CTC-41.jpg">
+      <picture url="../docs/illus/CTC-41.jpg.png">
          <interp resp="sqm">a man with his hand on a childs head</interp>
       </picture>
    </lg>
    <lg num="3">
       <l num="1">“What would your <person>Great Grandfather</person> who </l>
       <l num="2">Was Aide-de-Camp to <person>General Brue,</person></l>
-      <picture url="../docs/illus/CTC-42.jpg">
+      <picture url="../docs/illus/CTC-42.jpg.png">
          <interp resp="sqm">a general on a horse</interp>
       </picture>
    </lg>
    <lg num="4">
       <l num="1">And lost a leg at <place>Waterloo,</place> </l>
-      <picture url="../docs/illus/CTC-43.jpg">
+      <picture url="../docs/illus/CTC-43.jpg.png">
          <interp resp="sqm">a man hopping on one leg</interp>
       </picture>
    </lg>
    <lg num="5">
       <l num="1">And <place>Quatre-Bras</place> and</l>
-      <picture url="../docs/illus/CTC-44.jpg">
+      <picture url="../docs/illus/CTC-44.jpg.png">
          <interp resp="sqm">a man hopping on one leg again</interp>
       </picture>
    </lg>
    <lg num="6">
       <l num="1"><place>Ligny</place> too!</l>
-      <picture url="../docs/illus/CTC-45.jpg">
+      <picture url="../docs/illus/CTC-45.jpg.png">
          <interp resp="sqm">a man hopping on one leg and falling</interp>
       </picture>
    </lg>
    <lg num="7">
-      <l num="1">And died at <place>Trafalgar!</place>—</l>
-      <picture url="../docs/illus/CTC-46.jpg">
+      <l num="1">And <action>died</action> at <place>Trafalgar!</place>—</l>
+      <picture url="../docs/illus/CTC-46.jpg.png">
          <interp resp="sqm">a man being shot on a bridge</interp>
       </picture>
    </lg>
    <lg num="8">
-      <l num="1"> What would he have remarked to hear</l>
-      <l num="2">His Young Descendant shriek with fear,</l>
+      <l num="1"> What would he have <action>remarked</action> to hear</l>
+      <l num="2">His Young Descendant <action>shriek</action> with fear,</l>
       <l num="3">Because he happened to be near</l>
-      <l num="4">A Harmless <vehicle>Motor-Car!</vehicle></l>
+      <l num="4">A Harmless Motor-Car!</l>
       <l num="5">But do not fret about it! Come!</l>
       <l num="6">We’ll off to Town And purchase some!”</l>
-      <picture url="../docs/illus/CTC-47.jpg">
+      <picture url="../docs/illus/CTC-47.jpg.png">
          <interp resp="sqm">a man and a young boy with a line of cars behind them</interp>
       </picture>
    </lg>
