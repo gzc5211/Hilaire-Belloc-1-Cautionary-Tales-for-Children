@@ -24,7 +24,7 @@
                             
                             
                             
-                            <th>Letter Date</th>
+                            <th>Book Name</th>
                    
                             <th>Places Mentioned</th>
                    
@@ -45,7 +45,9 @@
 
 
 
-          <section id="fulltext"><xsl:apply-templates select="$CTC//root"/></section>
+          <section id="fulltext">
+              <xsl:apply-templates select="$CTC//root"/>
+          </section>
                 
             </body>
         </html>

@@ -27,8 +27,8 @@
  <xsl:template match="/">
      
      <!--RESULT DOC-->
-    <xsl:for-each select="$HBC">
-     <xsl:result-document method="xhtml" href="../docs/HBC.html">
+    
+     <!--<xsl:result-document method="html" href="../docs/HBC.html">-->
      <html>
          <head>
              <title>Hilaire-Belloc-1-Cautionary-Tales-for-Children</title>
@@ -41,18 +41,22 @@
              <section id="contents"> 
                  <table> 
                  <tr>
-                     <th>Story Name</th>
+                     <th>Book Name</th>
                     
-                     <th>N/A</th>
+                     <th>Person</th>
                     
-                     
+                     <th>Action</th>
                     
                  </tr>
                      <tr>
-                         <td><a href="#C{count(preceding::Title)+1}"><xsl:apply-templates select="descendant::Title"/> </a></td>
+                         <td>
+                             <!--<a href="#C{count($HBC//preceding::Title)+1}">-->
+                             <xsl:apply-templates select="$HBC//Title"/>
+                         <!--</a>-->
+                         </td>
                          
-                         <td> <xsl:apply-templates select="descendant::location"/></td>
-                         <td> <xsl:apply-templates select="descendant::tech"/></td>
+                         <td> <xsl:apply-templates select="action"/></td>
+                         <td> <xsl:apply-templates select="person"/></td>
                      </tr>
             <!-- ebb: prepare the table of contents representing each descendant chapter heading,
                    Hint: use <xsl:apply-templates with @mode here.  -->   
@@ -63,15 +67,15 @@
              
              <!--Reading view of the chapters here. -->
              <section id="readingView">
-                 <xsl:apply-templates select="descendant::Title"/>
-                 <xsl:apply-templates select="descendant::root"/>
+                 
+                 <xsl:apply-templates select="$HBC//root"/>
                 <!-- ebb: process the same descendant chapter heading elements here, but this time to start processing the reading view.  -->
              </section>
         </body>
         
      </html>
-     </xsl:result-document>
-    </xsl:for-each>
+     <!--</xsl:result-document>-->
+  
  </xsl:template>
     
    <!--ebb: Continue writing template rules, some with @mode for the table of contents, and some without it for the reading view.  -->
@@ -104,13 +108,18 @@
     
     <xsl:template match="root">
         <section>
-            <h2 id="C{count(preceding::Title)+1}"><xsl:apply-templates select="Title"/></h2>
-            <div><xsl:apply-templates select="lg"/></div>
+            <h2 id="C{count($HBC//Title)+1}">
+                <xsl:apply-templates select="Title"/>
+            </h2>
+            <div><xsl:apply-templates select="lg"/>
+            </div>
         </section>
     </xsl:template>
     
     <xsl:template match="Title">
+        <a href="#C{count($HBC//preceding::Title)+1}">
         <xsl:apply-templates/>
+        </a>
     </xsl:template>
     
     <xsl:template match="lg">
