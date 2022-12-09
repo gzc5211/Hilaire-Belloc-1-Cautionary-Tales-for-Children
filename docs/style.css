@@ -134,8 +134,8 @@ li a:hover:not(.active) {
 	font-size: 90px;
 	font-family: Copperplate, Papyrus, fantasy;
 	position: absolute;
- 	right: 00px;
  	top: 30%;
+ 	text-align:center;
 }
 
 body {
