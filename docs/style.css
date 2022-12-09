@@ -137,8 +137,8 @@ li a:hover:not(.active) {
 .classNum {
 	font-size: 90px;
 	font-family: Copperplate, Papyrus, fantasy;
-	position: absolute;
- 	top: 30%;
+	/* position: absolute;
+ 	top: 30%; */
  	text-align:center;
 }
 
