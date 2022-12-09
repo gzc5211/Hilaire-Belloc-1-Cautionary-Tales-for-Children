@@ -26,9 +26,10 @@
                             
                             <th>Book Name</th>
                    
-                            <th>Places Mentioned</th>
+                            <th>Person Mentioned</th>
                    
-                            <th>Persons Mentioned</th>
+                            <th>Action Mentioned</th>
+                             <th>Animal Mentioned</th>
            </tr>
                         
         <xsl:apply-templates select="$CTC//root" mode="toc"/>
@@ -58,15 +59,13 @@
    <xsl:template match="root" mode="toc">
        <tr>
            <td>
-               <a href="#{@xml:id}">
-                   <xsl:apply-templates select="@xml:id"/>
+               <a href="#C{count($CTC//Title)+1}">
+                   <xsl:apply-templates select="Title"/>
                </a>
-                
-           
-               
+             
         </td>
            <td>
-               <xsl:value-of select="//animal ! normalize-space() => distinct-values() => sort() => string-join('| ') "/>
+               <xsl:value-of select="//person ! normalize-space() => distinct-values() => sort() => string-join('| ') "/>
                   
                
            </td>
@@ -75,7 +74,9 @@
            </td>
            
            
-           
+           <td>
+               <xsl:value-of select="//animal ! normalize-space() => distinct-values() => sort() => string-join('| ') "/>
+           </td>
            
            
            
@@ -89,7 +90,7 @@
 
     
     <xsl:template match="root">
-        <div id="{@xml:id}">
+        <div id="C{count($CTC//Title)+1}">
          <h2>     
             <xsl:apply-templates select="Title"/>
          </h2>
