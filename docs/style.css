@@ -4,12 +4,12 @@
 
 table {
   border-collapse: collapse;
-  border:.5vw solid #301934;
+  border:.5vw solid #6495ED;
   margin:auto;
 }
 th, td {padding: 1em; }
 tr:nth-child(odd) {
-  background-color: #533D73; /* deep purple */
+  background-color: #ADD8E6; /* deep purple */
   color: white;
   }
 
