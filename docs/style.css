@@ -74,7 +74,7 @@ hero text*/
 .social-media-links {
     width: 100%;
     left: 0;
-    bottom: 0;
+    bottom: 100px;
     position: absolute;
     padding: 10px;
     height: auto;
