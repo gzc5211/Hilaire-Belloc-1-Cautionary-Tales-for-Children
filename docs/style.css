@@ -84,7 +84,7 @@ hero text*/
     height: auto;
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: left;
     justify-content: center;
 }
 
