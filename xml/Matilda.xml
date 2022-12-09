@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
-<root>
-    <Title><person>Matilda,</person></Title>       
+<root id="4">
+    <Title>Matilda</Title>       
     <descrip>Who told Lies, and was Burned to Death.</descrip>
 
     <lg num="1">    
         
-        <l num="1">Matilda told such Dreadful Lies,</l>
+        <l num="1"><person>Matilda</person> told such Dreadful Lies,</l>
         <picture url="../docs/illus/CTC-14.jpg.png">
             <interp resp="gvc">some men look at one girl.</interp>
         </picture>
@@ -88,9 +88,3 @@
             </picture> 
         </lg>
 </root>
-        
-        
-        
-        
-        
-    </lg>
