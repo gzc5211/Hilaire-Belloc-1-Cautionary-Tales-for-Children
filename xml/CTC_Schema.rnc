@@ -1,5 +1,6 @@
 start =
   element root { 
+  attribute id { xsd:integer },
     element Title { text },
     element descrip { text }?,
     (element heading {text} |

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
-<root><!-- We will add "food" element to the schema -->
+<root id="2"><!-- We will add "food" element to the schema -->
 
    <Title>Jim</Title>
    <descrip>Who ran away from his Nurse, and was eaten by a lion.</descrip>

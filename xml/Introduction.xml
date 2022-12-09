@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
-<root>
+<root id="1">
 <Title>INTRODUCTION</Title>
  <descrip>Upon being asked by a Reader whether the verses contained in this book were true.</descrip>
    <lg num="1">
