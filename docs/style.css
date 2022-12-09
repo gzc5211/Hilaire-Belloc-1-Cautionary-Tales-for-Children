@@ -12,6 +12,10 @@ tr:nth-child(odd) {
   background-color: #87CEFA; /* deep purple */
   color: white;
   }
+  
+  h2 {
+      background-color: #B0E0E6;
+  }
 
 
 
