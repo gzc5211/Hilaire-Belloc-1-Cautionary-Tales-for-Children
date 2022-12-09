@@ -21,6 +21,10 @@ tr:nth-child(odd) {
 text-align:center;
   }
   
+  h3 {
+      text-align:center;
+  }
+  
   p {
 text-align:center;
   }
