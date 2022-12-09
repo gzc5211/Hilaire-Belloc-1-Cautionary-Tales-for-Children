@@ -146,7 +146,7 @@ li a:hover:not(.active) {
 	font-family: Copperplate, Papyrus, fantasy;
 	/* position: absolute;
  	top: 30%; */
- 	text-align:center;
+ 	;
  	padding-bottom: 100px;
 }
 
