@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="CTC_Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <Title><person>Matilda,</person></Title>       
+    <descrip>Who told Lies, and was Burned to Death.</descrip>
+
+    <lg num="1">    
+        
+        <l num="1">Matilda told such Dreadful Lies,</l>
+        <picture url="../docs/illus/CTC-14.jpg.png">
+            <interp resp="gvc">some men look at one girl.</interp>
+        </picture>
+    
+        <l num="2">It made one Gasp and Stretch one’s Eyes;</l>
+        <l num="3"> <person>Her Aunt,</person> who, from her Earliest Youth,</l>
+        <l num="4">Had kept a Strict Regard for Truth,</l>
+        <picture url="../docs/illus/CTC-15.jpg.png">
+            <interp resp="gvc">The girl and her aunt look at each other.</interp>
+        </picture>
+        <l num="5">Attempted to Believe Matilda:</l>
+        <l num="6">The effort very nearly killed her,</l>
+        <l num="7">And would have done so, had not She</l>
+        <l num="8">Discovered this Infirmity.</l>
+        <l num="9">For once, towards the Close of Day,</l>
+        <l num="10">Matilda, growing tired of play,</l>
+        <l num="11">And finding she was left alone,</l>
+        <l num="12">Went tiptoe</l>
+        <picture url="../docs/illus/CTC-16.jpg.png">
+            <interp resp="gvc">The girl is dacing</interp>
+        </picture>
+        <l num="13">to</l>
+        <l num="14">the Telephone</l>
+        <l num="15">And summoned the Immediate Aid</l>
+        <l num="16">Of<place> London’</place>s Noble Fire-Brigade.</l>
+        <l num="17"> Within an hour the Gallant Band</l>
+        <l num="18">Were pouring in on every hand,</l>
+         <l num="19">From <pub>Putney</pub>, Hackney Downs and Bow,</l>
+        <l num="20">With Courage high and Hearts a-glow</l>
+        <l num="21">They galloped, roaring through the <pub>Town,</pub></l>
+        <picture url="../docs/illus/CTC-17.jpg.png">
+            <interp resp="gvc">The knights are riding the carriage.</interp>
+        </picture>
+        <l num="22">“<pub>Matilda’s House</pub> is Burning Down!”</l>
+        <l num="23">Inspired by British Cheers and Loud</l>
+        <l num="24">Proceeding from the Frenzied Crowd,</l>
+        <l num="25"> They ran their ladders through a score</l>
+        <l num="26"> Of windows on the Ball Room Floor;</l>
+       <l num="27">And took Peculiar Pains to Souse</l>
+         <l num="28">The Pictures up and down the House,</l>
+        <picture url="../docs/illus/CTC-18.jpg.png">
+            <interp resp="gvc">Some knights are put out the fire.</interp>
+        </picture>
+        <l num="29">Until Matilda’s Aunt succeeded</l>
+        <l num="30">In showing them they were not needed</l>
+         <l num="31">And even then she had to pay</l>
+         <l num="32">To get the Men to go away!</l>
+    </lg>
+        
+        <lg num="2">
+        <l num="1">It happened that a few Weeks later</l>
+        <l num="2"><person>Her Aunt</person> was off to the<pub> Theatre</pub></l>
+         <l num="3">To see that Interesting Play</l>
+          <l num="4">The Second <person>Mrs. Tanqueray</person>.</l>
+            <picture url="../docs/illus/CTC-19.jpg.png">
+                <interp resp="gvc">A standing woman.</interp>
+            </picture> 
+            <l num="5">She had refused to take her <person>Niece</person></l>
+             <l num="6">To hear this Entertaining Piece:</l>
+              <l num="7">A Deprivation Just and Wise</l>
+              <l num="8">To Punish her for Telling Lies.</l>
+                <l num="9"> That Night a Fire did break out—</l>
+                <l num="10"> You should have heard Matilda Shout!</l>
+                 <l num="11">You should have heard her Scream and Bawl,</l>
+                 <l num="12">And throw the window up and call</l>
+                  <l num="13"> To People passing in the Street—</l>
+                  <l num="14">(The rapidly increasing Heat</l>
+                  <l num="15">Encouraging her to obtain</l>
+                   <l num="16">Their confidence)—but all in vain!</l>
+                  <l num="17">For every time She shouted “Fire!”</l>
+            <picture url="../docs/illus/CTC-20.jpg.png">
+                <interp resp="gvc">Some men point at a child..</interp>
+            </picture> 
+            <l num="18">They only answered “Little Liar!”</l>
+           <l num="19">And therefore when her Aunt returned,</l>
+            <l num="20">Matilda, and the House, were Burned.</l>
+            <picture url="../docs/illus/CTC-21.jpg.png">
+                <interp resp="gvc">A woman is looking at the buring fire.</interp>
+            </picture> 
+        </lg>
+</root>
+        
+        
+        
+        
+        
+    </lg>
