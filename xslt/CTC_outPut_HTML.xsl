@@ -59,8 +59,8 @@
    <xsl:template match="root" mode="toc">
        <tr>
            <td>
-               <a href="#C{count($CTC//Title)+1}">
-                   <xsl:apply-templates select="Title"/>
+               <a href="#{@id}">
+                   <xsl:apply-templates select="Title ! normalize-space() => distinct-values() => sort() => string-join('| ') "/>
                </a>
              
         </td>
@@ -90,7 +90,7 @@
 
     
     <xsl:template match="root">
-        <div id="C{count($CTC//Title)+1}">
+        <div id="{@id}">
          <h2>     
             <xsl:apply-templates select="Title"/>
          </h2>
