@@ -64,10 +64,12 @@ hero text*/
 }
 
 .bookpic {
-	position: relative;
+max-width: 100%;
+  height: auto;
+	/*  position: relative;
 	left: 00;
 	top: 22.5%;
-	width: 250px;
+	width: 250px; */
 }
 
 
