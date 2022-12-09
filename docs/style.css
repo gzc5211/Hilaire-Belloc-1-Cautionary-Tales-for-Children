@@ -79,6 +79,7 @@ hero text*/
     width: 100%;
     left: 500px;
     bottom: 100px;
+    object-position: center left;
     /*  position: absolute;
     padding: 10px;
     height: auto;
