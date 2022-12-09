@@ -9,7 +9,7 @@ table {
 }
 th, td {padding: 1em; }
 tr:nth-child(odd) {
-  background-color: #ADD8E6; /* deep purple */
+  background-color: #87CEFA; /* deep purple */
   color: white;
   }
 
