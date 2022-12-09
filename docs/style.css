@@ -24,7 +24,7 @@ text-align:center;
   h3 {
       text-align:center;
       padding-bottom:inherit;
-      float:top;
+      
   }
   
   p {
@@ -56,7 +56,7 @@ hero text*/
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);.
+    transform: translate(-50%,-50%);
 }
 
 
@@ -173,4 +173,12 @@ body {
 .about-background {
 	background-color: #f44336!important;
 }
-
+span.person{
+    color:pink;
+}
+span.action{
+    color:blue;
+}
+span.animal{
+    color:green;
+}
