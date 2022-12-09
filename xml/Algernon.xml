@@ -7,26 +7,26 @@
    <lg num="1">
       <l num="1">Young <person>Algernon,</person> the Doctor’s Son,</l>
       <l num="2">Was <action>playing</action> with a Loaded Gun.</l>
-      <picture url="../docs/illus/CTC-36.jpg">
+      <picture url="../docs/illus/CTC-36.jpg.png">
          <interp resp="sqm">a boy looking down the barrel of a gun</interp>
       </picture>
    </lg>
    <lg num="2">
       <l num="1">He <action>pointed</action> it towards his <person>sister,</person></l>
       <l num="2"><action>Aimed</action> very carefully, but <action>Missed</action> her!</l>
-      <picture url="../docs/illus/CTC-37.jpg">
+      <picture url="../docs/illus/CTC-37.jpg.png">
          <interp resp="sqm">a boy pointing a gun to the left of the book</interp>
       </picture>
    </lg>
    <lg num="3">
       <l num="1">His <person>Father,</person> who was <action>standing</action> near,</l>
-      <picture url="../docs/illus/CTC-38.jpg">
+      <picture url="../docs/illus/CTC-38.jpg.png">
          <interp resp="sqm">a >man standing and plugging his ears</interp>
       </picture>
    </lg>
    <lg num="4">
       <l num="1">The Loud Explosion chanced to Hear,</l>
-      <picture url="../docs/illus/CTC-39.jpg">
+      <picture url="../docs/illus/CTC-39.jpg.png">
          <interp resp="sqm">a man and the boy standing together worried</interp>
       </picture>
    </lg>
