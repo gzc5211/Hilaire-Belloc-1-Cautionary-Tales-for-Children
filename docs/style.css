@@ -147,6 +147,7 @@ li a:hover:not(.active) {
 	/* position: absolute;
  	top: 30%; */
  	text-align:center;
+ 	padding-bottom: 100px;
 }
 
 body {
