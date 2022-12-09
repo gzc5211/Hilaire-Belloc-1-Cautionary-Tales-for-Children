@@ -24,6 +24,7 @@ text-align:center;
   h3 {
       text-align:center;
       padding-bottom:inherit;
+      float:top;
   }
   
   p {
