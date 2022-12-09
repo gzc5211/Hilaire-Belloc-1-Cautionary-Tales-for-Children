@@ -34,7 +34,11 @@ text-align:center;
       font-size: 10px;
   }
 
-
+figure {
+     border-collapse: collapse;
+  border:.5vw solid #6495ED;
+  margin:auto;
+}
 
 
 
