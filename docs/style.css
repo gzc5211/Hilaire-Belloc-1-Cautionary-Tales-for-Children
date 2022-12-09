@@ -77,15 +77,15 @@ hero text*/
 
 .social-media-links {
     width: 100%;
-    left: 0;
+    left: 500px;
     bottom: 100px;
-    position: absolute;
+    /*  position: absolute;
     padding: 10px;
     height: auto;
     display: flex;
     flex-direction: row;
     align-items: left;
-    justify-content: center;
+    justify-content: center; */
 }
 
 
