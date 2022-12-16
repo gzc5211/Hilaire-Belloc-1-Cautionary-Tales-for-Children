@@ -186,3 +186,7 @@ span.animal{
     left: 40%;
 	font-family: 'Courier New', monospace;
 }
+
+.codeview {
+	border: 5px solid #6495ED;
+}
