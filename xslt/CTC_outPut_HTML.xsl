@@ -55,12 +55,18 @@
     </xsl:template>
     
     
-   
+    
    <xsl:template match="root" mode="toc">
+       <xsl:for-each select="root">
+       <xsl:sort select="@id"/> 
+       </xsl:for-each>
+       !--I try to add a for each but did not work--!
        <tr>
            <td>
                <a href="#{@id}">
+                   
                    <xsl:apply-templates select="Title ! normalize-space() => distinct-values() => sort() => string-join('| ') "/>
+                   
                </a>
              
         </td>
@@ -90,6 +96,7 @@
 
     
     <xsl:template match="root">
+        
         <div id="{@id}">
          <h2>     
             <xsl:apply-templates select="Title"/>
