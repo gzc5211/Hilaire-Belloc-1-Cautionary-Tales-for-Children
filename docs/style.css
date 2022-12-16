@@ -21,11 +21,7 @@ tr:nth-child(odd) {
 text-align:center;
   }
   
-  h3 {
-      text-align:center;
-      padding-bottom:inherit;
-      
-  }
+  
   
   p {
 text-align:center;
@@ -42,6 +38,7 @@ text-align:center;
 
 img {
   border: 5px solid #6495ED;
+	position: left;
 }
 
 .des {
@@ -54,7 +51,7 @@ hero text*/
 .hero-text{
     text-align:center;
     position: absolute;
-    top: 50%;
+    top: 25%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
@@ -181,4 +178,11 @@ span.action{
 }
 span.animal{
     color:green;
+}
+.PJT {
+	text-align:center;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+	font-family: 'Courier New', monospace;
 }
